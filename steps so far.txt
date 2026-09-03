@@ -1,0 +1,233 @@
+VetXRay Thesis Dataset Processing — Steps 1–12
+1. Install Python
+Go to the official Python website:
+Python 3.11.9 for Windows
+Download:
+Windows installer (64-bit)
+Open the downloaded installer.
+IMPORTANT: On the first installation screen, check:
+☑ Add python.exe to PATH
+Click:
+Install Now
+Wait until you see:
+Setup was successful
+Click Close.
+2. Check if Python was installed correctly
+Open a new PowerShell window.
+Check Python:
+python --version
+You should see something like:
+Python 3.11.9
+Check where Python is installed:
+where.exe python
+Ideally, you should see something similar to:
+C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe
+Check pip:
+python -m pip --version
+If it shows a pip version, Python and pip are working. ✅
+3. Create/go to your thesis dataset folder
+Your dataset folder is:
+D:\thesis\VetXRay
+In PowerShell:
+cd D:\thesis\VetXRay
+Check what's inside:
+dir
+You should have your original folders:
+RX_1
+RX_2
+RX_3
+RX_4
+RX_5
+
+and your filtered Excel:
+
+final_filtered_VetXRay_dataset.xlsx
+4. Install the Python packages for Excel and dataset processing
+Install pandas and openpyxl:
+python -m pip install pandas openpyxl
+These are used for:
+pandas → reading and processing your Excel dataset
+openpyxl → reading .xlsx Excel files
+Test pandas:
+python -c "import pandas; print('Pandas is working!')"
+You should get:
+Pandas is working!
+5. Create the filtered dataset Excel file
+We used your original cleaned Excel dataset to determine which records belong to your thesis.
+The filtering resulted in:
+5,303 eligible images
+The six classes are:
+Canine No Findings
+Canine Cardiomegaly
+Canine Alveolar Pattern
+Feline No Findings
+Feline Cardiomegaly
+Feline Alveolar Pattern
+Your final Excel file is:
+final_filtered_VetXRay_dataset.xlsx
+The expected class counts are:
+Class	Images
+Canine No Findings	2,809
+Canine Cardiomegaly	1,066
+Canine Alveolar Pattern	423
+Feline No Findings	603
+Feline Cardiomegaly	199
+Feline Alveolar Pattern	203
+Total	5,303
+6. Create extract_selected_images.py
+In PowerShell, run:
+notepad extract_selected_images.py
+Click Yes if Windows asks to create the file.
+Paste the extraction script we created earlier into the file.
+The important job of this script is:
+final_filtered_VetXRay_dataset.xlsx
+              ↓
+        Read FileName
+              ↓
+       Search RX_1–RX_5
+              ↓
+       Find matching DICOM
+              ↓
+       Copy DICOM by class
+              ↓
+       Selected_Dataset
+Save the file.
+Check that it exists:
+dir extract_selected_images.py
+7. Run the DICOM extraction
+Run:
+python extract_selected_images.py
+The script searches:
+RX_1
+RX_2
+RX_3
+RX_4
+RX_5
+It creates:
+Selected_Dataset
+Inside:
+Selected_Dataset
+│
+├── Canine No Findings
+├── Canine Cardiomegaly
+├── Canine Alveolar Pattern
+├── Feline No Findings
+├── Feline Cardiomegaly
+└── Feline Alveolar Pattern
+The script copies the DICOM files.
+It does not delete the original DICOMs.
+Important
+
+Keep:
+
+RX_1
+RX_2
+RX_3
+RX_4
+RX_5
+
+These are your original source files and should be preserved. Your paper specifies that original files are kept separately from processed, augmented, and synthetic files.
+
+8. Verify the extracted dataset
+Check how many DICOM files were copied:
+(Get-ChildItem "D:\thesis\VetXRay\Selected_Dataset" -File -Recurse).Count
+The expected result is:
+5303
+Check the six folders:
+Get-ChildItem "D:\thesis\VetXRay\Selected_Dataset" -Directory
+You should see the six classes.
+9. Install the preprocessing Python packages
+
+Now we move from DICOM extraction to image preprocessing.
+
+Install:
+python -m pip install pydicom opencv-python numpy
+
+These packages are used for:
+
+pydicom → reading DICOM files
+opencv-python → resizing and image processing
+numpy → manipulating pixel values
+10. Create preprocess_dicom.py
+Run:
+notepad preprocess_dicom.py
+Click Yes if asked to create it.
+Paste the preprocessing script we created.
+
+Its process is:
+
+DICOM
+ ↓
+Read pixel data
+ ↓
+Handle MONOCHROME1
+ ↓
+Intensity standardization
+ ↓
+Convert to 8-bit
+ ↓
+Resize to 224 × 224
+ ↓
+Grayscale → 3 channels
+ ↓
+Save as PNG
+
+Your paper specifies the 224×224 resizing, grayscale-to-3-channel conversion, ImageNet-compatible normalization, and lossless PNG representation.
+
+Save the file.
+Check it:
+dir preprocess_dicom.py
+11. Run the preprocessing
+Run:
+python preprocess_dicom.py
+The script reads:
+Selected_Dataset
+It creates:
+Processed_Dataset
+
+Your structure becomes:
+
+D:\thesis\VetXRay
+│
+├── RX_1                         ← ORIGINAL
+├── RX_2                         ← ORIGINAL
+├── RX_3                         ← ORIGINAL
+├── RX_4                         ← ORIGINAL
+├── RX_5                         ← ORIGINAL
+│
+├── final_filtered_VetXRay_dataset.xlsx
+│
+├── extract_selected_images.py
+├── preprocess_dicom.py
+│
+├── Selected_Dataset             ← FILTERED DICOM
+│   ├── Canine No Findings
+│   ├── Canine Cardiomegaly
+│   ├── Canine Alveolar Pattern
+│   ├── Feline No Findings
+│   ├── Feline Cardiomegaly
+│   └── Feline Alveolar Pattern
+│
+└── Processed_Dataset            ← PROCESSED PNG
+    ├── Canine No Findings
+    ├── Canine Cardiomegaly
+    ├── Canine Alveolar Pattern
+    ├── Feline No Findings
+    ├── Feline Cardiomegaly
+    └── Feline Alveolar Pattern
+12. Verify the preprocessing
+Count the processed PNG files:
+(Get-ChildItem "D:\thesis\VetXRay\Processed_Dataset" -Filter *.png -Recurse).Count
+Ideally:
+5303
+Check the folders:
+Get-ChildItem "D:\thesis\VetXRay\Processed_Dataset" -Directory
+
+You should have:
+
+Canine No Findings
+Canine Cardiomegaly
+Canine Alveolar Pattern
+Feline No Findings
+Feline Cardiomegaly
+Feline Alveolar Pattern
