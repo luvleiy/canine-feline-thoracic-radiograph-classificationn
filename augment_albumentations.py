@@ -8,9 +8,10 @@ print("=== Running Albumentations Pipeline for Model 2 ===")
 
 # 1. Conservative transformation pipeline (strictly no horizontal flipping)
 # Preserves lateralized thoracic anatomy (cardiac silhouette apex, asymmetric lung field changes)
+# Updated modern Albumentations syntax
 transform = A.Compose([
-    A.Rotate(limit=10, border_mode=cv2.BORDER_CONSTANT, value=0, p=0.7),
-    A.ShiftScaleRotate(shift_limit=0.05, scale_limit=0.05, rotate_limit=0, border_mode=cv2.BORDER_CONSTANT, value=0, p=0.5),
+    A.Rotate(limit=10, border_mode=cv2.BORDER_CONSTANT, fill=0, p=0.7),
+    A.Affine(scale=(0.95, 1.05), translate_percent=(-0.05, 0.05), rotate=0, cval=0, p=0.5),
     A.RandomBrightnessContrast(brightness_limit=0.1, contrast_limit=0.1, p=0.5),
 ])
 
