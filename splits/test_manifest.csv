@@ -1,531 +1,531 @@
-FileName,PatientName,breed,specie,Projection,Quality,TAG,NOTE,Class,Patient_Group_ID
-IM-0015-0001-0005.dcm,Papusse,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Papusse_Cat_European Shorthair
-IM-0015-0001-0012.dcm,Semola,Weimaraner,Dog,DV,correct,no_finding,,Canine No Findings,Semola_Dog_Weimaraner
-IM-0015-0001-0018.dcm,Mirtha,Shih Tzu,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Mirtha_Dog_Shih Tzu
-IM-0015-0001-0054.dcm,Mirtha,Shih Tzu,Dog,DV,correct,no_finding,,Canine No Findings,Mirtha_Dog_Shih Tzu
-IM-0015-0001-0056.dcm,Chimo,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chimo_Dog_Mixed Breed
-IM-0015-0001-0078.dcm,Bingo,Old English Sheepdog,Dog,DV,correct,no_finding,,Canine No Findings,Bingo_Dog_Old English Sheepdog
-IM-0015-0001-0094.dcm,Carmen,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Carmen_Dog_Boxer
-IM-0015-0001-0117.dcm,Bingo,Old English Sheepdog,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog
-IM-0015-0001-0132.dcm,Chimo,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chimo_Dog_Mixed Breed
-IM-0015-0001-0160.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-0208.dcm,Chimo,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chimo_Dog_Mixed Breed
-IM-0015-0001-0254.dcm,Mimo,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Mimo_Cat_European Shorthair
-IM-0015-0001-0301.dcm,Nobel,Unknown,Dog,LL,correct,cardiomegaly|interstitial_pattern,total_body,Canine Cardiomegaly,Nobel_Dog_Unknown
-IM-0015-0001-0423.dcm,Blu,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair
-IM-0015-0001-0440.dcm,Red,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Red_Cat_European Shorthair
-IM-0015-0001-0463.dcm,August,Jack Russell Terrier,Dog,LL,correct,no_finding,,Canine No Findings,August_Dog_Jack Russell Terrier
-IM-0015-0001-0465.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-0466.dcm,Birba,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-0492.dcm,Mio,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Mio_Cat_Unknown
-IM-0015-0001-0500.dcm,August,Jack Russell Terrier,Dog,DV,correct,no_finding,,Canine No Findings,August_Dog_Jack Russell Terrier
-IM-0015-0001-0516.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-0527.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-0608.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-0634.dcm,Tosca,English Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,Tosca_Dog_English Bulldog
-IM-0015-0001-0638.dcm,Mio,Unknown,Cat,DV,correct,no_finding,,Feline No Findings,Mio_Cat_Unknown
-IM-0015-0001-0704.dcm,Blu,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair
-IM-0015-0001-0786.dcm,Billy,Mixed Breed,Dog,LL,correct,alveolar_pattern|pneumothorax,,Canine Alveolar Pattern,Billy_Dog_Mixed Breed
-IM-0015-0001-0795.dcm,Bingo,Old English Sheepdog,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog
-IM-0015-0001-0822.dcm,Walter,European Shorthair,Cat,LL,correct,pleural_mineralization|cardiomegaly,,Feline Cardiomegaly,Walter_Cat_European Shorthair
-IM-0015-0001-0823.dcm,Elly,Mixed Breed,Dog,LL,correct,interstitial_pattern|no_finding,,Canine No Findings,Elly_Dog_Mixed Breed
-IM-0015-0001-0841.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-0842.dcm,Lady,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Lady_Dog_Irish Setter
-IM-0015-0001-0874.dcm,Elly,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Elly_Dog_Mixed Breed
-IM-0015-0001-0895.dcm,Euforia,Great Dane,Dog,DV,correct,no_finding,,Canine No Findings,Euforia_Dog_Great Dane
-IM-0015-0001-0942.dcm,Asia,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-0964.dcm,Pepper,French Bulldog,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Pepper_Dog_French Bulldog
-IM-0015-0001-0999.dcm,Euforia,Great Dane,Dog,LL,correct,no_finding,,Canine No Findings,Euforia_Dog_Great Dane
-IM-0015-0001-1003.dcm,Chicca,Mixed Breed,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-1006.dcm,Charly,Unknown,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Charly_Dog_Unknown
-IM-0015-0001-1026.dcm,Pepper,French Bulldog,Dog,LL,correct,cardiomegaly|bronchial_pattern,check,Canine Cardiomegaly,Pepper_Dog_French Bulldog
-IM-0015-0001-1079.dcm,Billy,Mixed Breed,Dog,DV,correct,alveolar_pattern|pneumothorax,,Canine Alveolar Pattern,Billy_Dog_Mixed Breed
-IM-0015-0001-1080.dcm,Isotta,Labrador Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Isotta_Dog_Labrador Retriever
-IM-0015-0001-1097.dcm,Zorro,Jack Russell Terrier,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Zorro_Dog_Jack Russell Terrier
-IM-0015-0001-1117.dcm,Toby,Toy Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Toby_Dog_Toy Poodle
-IM-0015-0001-1119.dcm,Rolly,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Rolly_Dog_Mixed Breed
-IM-0015-0001-1120.dcm,Sbrana,Giant Schnauzer,Dog,DV,correct,no_finding,,Canine No Findings,Sbrana_Dog_Giant Schnauzer
-IM-0015-0001-1136.dcm,Rolly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Rolly_Dog_Mixed Breed
-IM-0015-0001-1145.dcm,Bud,Rottweiler,Dog,DV,correct,no_finding,,Canine No Findings,Bud_Dog_Rottweiler
-IM-0015-0001-1148.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer
-IM-0015-0001-1167.dcm,Bud,Rottweiler,Dog,DV,correct,no_finding,,Canine No Findings,Bud_Dog_Rottweiler
-IM-0015-0001-1218.dcm,Speedy,Whippet,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet
-IM-0015-0001-1225.dcm,Lucky,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Lucky_Dog_Unknown
-IM-0015-0001-1244.dcm,Margherita,Mixed Breed,Dog,DV,correct,alveolar_pattern|pneumothorax|fracture,total_body,Canine Alveolar Pattern,Margherita_Dog_Mixed Breed
-IM-0015-0001-1255.dcm,Lassie,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Lassie_Dog_Mixed Breed
-IM-0015-0001-1294.dcm,Sbrana,Giant Schnauzer,Dog,DV,correct,no_finding,,Canine No Findings,Sbrana_Dog_Giant Schnauzer
-IM-0015-0001-1342.dcm,Corvina,Bichon Frisé,Dog,LL,correct,no_finding,,Canine No Findings,Corvina_Dog_Bichon Frisé
-IM-0015-0001-1349.dcm,Ada,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Ada_Dog_Boxer
-IM-0015-0001-1382.dcm,Bud,Rottweiler,Dog,LL,correct,no_finding,,Canine No Findings,Bud_Dog_Rottweiler
-IM-0015-0001-1384.dcm,Ada,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ada_Dog_Boxer
-IM-0015-0001-1399.dcm,Birba,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Birba_Cat_Unknown
-IM-0015-0001-1405.dcm,Sbrana,Giant Schnauzer,Dog,LL,correct,no_finding,,Canine No Findings,Sbrana_Dog_Giant Schnauzer
-IM-0015-0001-1422.dcm,Birba,Unknown,Cat,DV,correct,no_finding,,Feline No Findings,Birba_Cat_Unknown
-IM-0015-0001-1455.dcm,Ron,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Ron_Dog_Mixed Breed
-IM-0015-0001-1487.dcm,Lucky,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Lucky_Dog_Unknown
-IM-0015-0001-1510.dcm,Spillo,Cavalier King Charles Spaniel,Dog,DV,correct,no_finding,,Canine No Findings,Spillo_Dog_Cavalier King Charles Spaniel
-IM-0015-0001-1521.dcm,Rocco,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Rocco_Dog_Mixed Breed
-IM-0015-0001-1538.dcm,Briciola,Poodle,Dog,DV,correct,alveolar_pattern|mass|pleural_effusion,,Canine Alveolar Pattern,Briciola_Dog_Poodle
-IM-0015-0001-1584.dcm,Elvis,Persian,Cat,DV,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Elvis_Cat_Persian
-IM-0015-0001-1586.dcm,Biba,Pomeranian,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Biba_Dog_Pomeranian
-IM-0015-0001-1631.dcm,Polpetta,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Polpetta_Cat_European Shorthair
-IM-0015-0001-1672.dcm,Lapo,Golden Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Lapo_Dog_Golden Retriever
-IM-0015-0001-1684.dcm,Rocco,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Rocco_Dog_Mixed Breed
-IM-0015-0001-1716.dcm,Matilde,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Matilde_Dog_Boxer
-IM-0015-0001-1729.dcm,Tiffy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-1730.dcm,Ron,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ron_Dog_Mixed Breed
-IM-0015-0001-1753.dcm,Edgar,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Edgar_Dog_Mixed Breed
-IM-0015-0001-1774.dcm,TOMMY,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,TOMMY_Dog_Mixed Breed
-IM-0015-0001-1781.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-1833.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-1838.dcm,Lia,Bull Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Lia_Dog_Bull Terrier
-IM-0015-0001-1842.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-1852.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-1881.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-1901.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer
-IM-0015-0001-1936.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter
-IM-0015-0001-1939.dcm,Spino,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Spino_Dog_Mixed Breed
-IM-0015-0001-1943.dcm,TOMMY,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,check,Canine Cardiomegaly,TOMMY_Dog_Mixed Breed
-IM-0015-0001-1960.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-2018.dcm,Tika,German Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,Tika_Dog_German Shepherd
-IM-0015-0001-2044.dcm,Patty,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Patty_Dog_Mixed Breed
-IM-0015-0001-2061.dcm,Spank,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Spank_Dog_Mixed Breed
-IM-0015-0001-2063.dcm,Matisse,Labrador Retriever,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Matisse_Dog_Labrador Retriever
-IM-0015-0001-2068.dcm,Patty,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Patty_Dog_Mixed Breed
-IM-0015-0001-2076.dcm,Spank,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Spank_Dog_Mixed Breed
-IM-0015-0001-2077.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier
-IM-0015-0001-2088.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier
-IM-0015-0001-2108.dcm,Crostatina,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Crostatina_Cat_European Shorthair
-IM-0015-0001-2112.dcm,Kira,Siberian Husky,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Siberian Husky
-IM-0015-0001-2117.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier
-IM-0015-0001-2119.dcm,Crio,Newfoundland,Dog,LL,correct,no_finding|pleural_mineralization,,Canine No Findings,Crio_Dog_Newfoundland
-IM-0015-0001-2121.dcm,Lulu',Jack Russell Terrier,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier
-IM-0015-0001-2129.dcm,Crio,Newfoundland,Dog,DV,correct,no_finding,,Canine No Findings,Crio_Dog_Newfoundland
-IM-0015-0001-2142.dcm,Crostatina,European Shorthair,Cat,DV,correct,cardiomegaly,check,Feline Cardiomegaly,Crostatina_Cat_European Shorthair
-IM-0015-0001-2148.dcm,Matisse,Labrador Retriever,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Matisse_Dog_Labrador Retriever
-IM-0015-0001-2150.dcm,Serse,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Serse_Dog_Unknown
-IM-0015-0001-2158.dcm,Spank,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Spank_Dog_Mixed Breed
-IM-0015-0001-2182.dcm,Ottimo,Labrador Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Ottimo_Dog_Labrador Retriever
-IM-0015-0001-2188.dcm,Penny,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Penny_Dog_Mixed Breed
-IM-0015-0001-2290.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2295.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2296.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2300.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2307.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2317.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2337.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-2377.dcm,India,German Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,India_Dog_German Shepherd
-IM-0015-0001-2419.dcm,India,German Shepherd,Dog,DV,correct,no_finding,,Canine No Findings,India_Dog_German Shepherd
-IM-0015-0001-2510.dcm,Edgar,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Edgar_Dog_Mixed Breed
-IM-0015-0001-2521.dcm,Riccardo,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Riccardo_Dog_Mixed Breed
-IM-0015-0001-2533.dcm,Edgar,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Edgar_Dog_Mixed Breed
-IM-0015-0001-2546.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-2578.dcm,Edgar,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Edgar_Dog_Mixed Breed
-IM-0015-0001-2587.dcm,Riccardo,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Riccardo_Dog_Mixed Breed
-IM-0015-0001-2590.dcm,Tiffy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed
-IM-0015-0001-2616.dcm,Sansonje,Maine Coon,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Sansonje_Cat_Maine Coon
-IM-0015-0001-2618.dcm,Miciaz,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Miciaz_Cat_European Shorthair
-IM-0015-0001-2635.dcm,Fendy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Fendy_Dog_Mixed Breed
-IM-0015-0001-2727.dcm,Omer,Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Omer_Dog_Poodle
-IM-0015-0001-2754.dcm,Omer,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Omer_Dog_Poodle
-IM-0015-0001-2756.dcm,Pat,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Pat_Cat_European Shorthair
-IM-0015-0001-2765.dcm,Penny,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Penny_Dog_Mixed Breed
-IM-0015-0001-2773.dcm,Birillo,European Shorthair,Cat,DV,correct,no_finding,total_body,Feline No Findings,Birillo_Cat_European Shorthair
-IM-0015-0001-2781.dcm,Dago,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Dago_Dog_Mixed Breed
-IM-0015-0001-2791.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-2811.dcm,Penny,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Penny_Dog_Mixed Breed
-IM-0015-0001-2830.dcm,Atos,Dogo Argentino,Dog,LL,correct,interstitial_pattern|alveolar_pattern,,Canine Alveolar Pattern,Atos_Dog_Dogo Argentino
-IM-0015-0001-2832.dcm,Atos,Dogo Argentino,Dog,LL,correct,interstitial_pattern|alveolar_pattern,,Canine Alveolar Pattern,Atos_Dog_Dogo Argentino
-IM-0015-0001-2839.dcm,Nike,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Nike_Dog_Mixed Breed
-IM-0015-0001-2853.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2870.dcm,Hunter,Siberian Husky,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Hunter_Dog_Siberian Husky
-IM-0015-0001-2881.dcm,Bingo,Old English Sheepdog,Dog,LL,correct,cardiomegaly|pleural_mineralization|mass,,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog
-IM-0015-0001-2899.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2924.dcm,Bingo,Old English Sheepdog,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog
-IM-0015-0001-2929.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-2981.dcm,Candy,Golden Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Candy_Dog_Golden Retriever
-IM-0015-0001-3008.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-3051.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-3055.dcm,Gedeone,Mixed Breed,Cat,DV,correct,alveolar_pattern|pleural_effusion,,Feline Alveolar Pattern,Gedeone_Cat_Mixed Breed
-IM-0015-0001-3065.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-3088.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-3090.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-3147.dcm,Blu,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair
-IM-0015-0001-3170.dcm,Cocco,Maltese,Dog,LL,correct,no_finding,,Canine No Findings,Cocco_Dog_Maltese
-IM-0015-0001-3173.dcm,Ludovica,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Ludovica_Dog_Boxer
-IM-0015-0001-3187.dcm,Clarabella,Bernese Mountain Dog,Dog,LL,correct,no_finding,,Canine No Findings,Clarabella_Dog_Bernese Mountain Dog
-IM-0015-0001-3189.dcm,Blade,German Shepherd,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Blade_Dog_German Shepherd
-IM-0015-0001-3199.dcm,Ludovica,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ludovica_Dog_Boxer
-IM-0015-0001-3207.dcm,Sciretta,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Sciretta_Dog_Mixed Breed
-IM-0015-0001-3211.dcm,Wolf,Golden Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Wolf_Dog_Golden Retriever
-IM-0015-0001-3213.dcm,Spank,Labrador Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Spank_Dog_Labrador Retriever
-IM-0015-0001-3214.dcm,Cocco,Maltese,Dog,DV,correct,no_finding,,Canine No Findings,Cocco_Dog_Maltese
-IM-0015-0001-3229.dcm,Sciretta,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Sciretta_Dog_Mixed Breed
-IM-0015-0001-3234.dcm,Blade,German Shepherd,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Blade_Dog_German Shepherd
-IM-0015-0001-3294.dcm,Nan√†,Pointer,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Nan√†_Dog_Pointer
-IM-0015-0001-3316.dcm,Nan√†,Pointer,Dog,DV,correct,no_finding,,Canine No Findings,Nan√†_Dog_Pointer
-IM-0015-0001-3331.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-3346.dcm,Billy,Mixed Breed,Dog,DV,correct,foreign_body|cardiomegaly,,Canine Cardiomegaly,Billy_Dog_Mixed Breed
-IM-0015-0001-3349.dcm,Billy,Mixed Breed,Dog,DV,correct,cardiomegaly|foreign_body,,Canine Cardiomegaly,Billy_Dog_Mixed Breed
-IM-0015-0001-3377.dcm,Asia,Mixed Breed,Dog,LL,correct,foreign_body|no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-3402.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-3435.dcm,Pippo,Dachshund,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Pippo_Dog_Dachshund
-IM-0015-0001-3468.dcm,Chicca,Mixed Breed,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-3470.dcm,Lord Byron,Black Russian Terrier,Dog,DV,correct,no_finding,spinal_fracture,Canine No Findings,Lord Byron_Dog_Black Russian Terrier
-IM-0015-0001-3472.dcm,Billy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed
-IM-0015-0001-3477.dcm,Pippo,Dachshund,Dog,DV,correct,no_finding,,Canine No Findings,Pippo_Dog_Dachshund
-IM-0015-0001-3497.dcm,Billy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed
-IM-0015-0001-3508.dcm,Ewok,Rottweiler,Dog,LL,correct,no_finding,,Canine No Findings,Ewok_Dog_Rottweiler
-IM-0015-0001-3535.dcm,Speedy,Whippet,Dog,DV,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-3544.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-3560.dcm,Crio,Newfoundland,Dog,LL,correct,no_finding,,Canine No Findings,Crio_Dog_Newfoundland
-IM-0015-0001-3585.dcm,Speedy,Whippet,Dog,DV,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-3598.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-3625.dcm,Lulu',Jack Russell Terrier,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier
-IM-0015-0001-3639.dcm,Donovan,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Donovan_Dog_Irish Setter
-IM-0015-0001-3679.dcm,Donovan,Irish Setter,Dog,DV,correct,no_finding,,Canine No Findings,Donovan_Dog_Irish Setter
-IM-0015-0001-3710.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier
-IM-0015-0001-3744.dcm,Ulisse,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ulisse_Dog_Boxer
-IM-0015-0001-3747.dcm,Ulisse,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ulisse_Dog_Boxer
-IM-0015-0001-3800.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-3807.dcm,Fragolino,Maltese,Dog,LL,correct,no_finding,,Canine No Findings,Fragolino_Dog_Maltese
-IM-0015-0001-3812.dcm,Natty,Mixed Breed,Dog,LL,correct,no_finding,total_body,Canine No Findings,Natty_Dog_Mixed Breed
-IM-0015-0001-3844.dcm,Bea,English Setter,Dog,LL,correct,no_finding,,Canine No Findings,Bea_Dog_English Setter
-IM-0015-0001-3852.dcm,Leo,Golden Retriever,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Leo_Dog_Golden Retriever
-IM-0015-0001-3878.dcm,Havana,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Havana_Dog_Unknown
-IM-0015-0001-3886.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-3890.dcm,Billy,Mixed Breed,Dog,LL,correct,cardiomegaly|mass,,Canine Cardiomegaly,Billy_Dog_Mixed Breed
-IM-0015-0001-3897.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-3898.dcm,Twister,Flat-Coated Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Twister_Dog_Flat-Coated Retriever
-IM-0015-0001-3906.dcm,Cooper,French Bulldog,Dog,LL,correct,no_finding,,Canine No Findings,Cooper_Dog_French Bulldog
-IM-0015-0001-3907.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter
-IM-0015-0001-3908.dcm,Happy,Standard Schnauzer,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Happy_Dog_Standard Schnauzer
-IM-0015-0001-3914.dcm,Scock,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Scock_Dog_Mixed Breed
-IM-0015-0001-3918.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter
-IM-0015-0001-3920.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-3947.dcm,Karma,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Karma_Dog_Mixed Breed
-IM-0015-0001-3962.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-3969.dcm,Matilda,Labrador Retriever,Cat,LL,correct,cardiomegaly|pleural_effusion,,Feline Cardiomegaly,Matilda_Cat_Labrador Retriever
-IM-0015-0001-3981.dcm,Gig√¨,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed
-IM-0015-0001-3982.dcm,B-Fifty Degli Ant. Mulini,Bernese Mountain Dog,Dog,LL,correct,no_finding,,Canine No Findings,B-Fifty Degli Ant. Mulini_Dog_Bernese Mountain Dog
-IM-0015-0001-4010.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter
-IM-0015-0001-4025.dcm,Didi,Yorkshire Terrier,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Didi_Dog_Yorkshire Terrier
-IM-0015-0001-4049.dcm,Pinko,Bodeguero Ratomero Andaluz,Dog,LL,correct,no_finding,,Canine No Findings,Pinko_Dog_Bodeguero Ratomero Andaluz
-IM-0015-0001-4062.dcm,Tobi,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Tobi_Dog_Unknown
-IM-0015-0001-4104.dcm,Elettra,Italian Hound,Dog,LL,correct,no_finding,,Canine No Findings,Elettra_Dog_Italian Hound
-IM-0015-0001-4119.dcm,Godzilla,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Godzilla_Dog_Mixed Breed
-IM-0015-0001-4120.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter
-IM-0015-0001-4144.dcm,Laika,German Shepherd,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Laika_Dog_German Shepherd
-IM-0015-0001-4146.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,moderate,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-4159.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-4163.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-4164.dcm,Godzilla,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Godzilla_Dog_Mixed Breed
-IM-0015-0001-4242.dcm,Pippo,Dachshund,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Pippo_Dog_Dachshund
-IM-0015-0001-4256.dcm,Freddy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Freddy_Dog_Mixed Breed
-IM-0015-0001-4265.dcm,Alex,Pinscher,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Alex_Dog_Pinscher
-IM-0015-0001-4276.dcm,Lea,Unknown,Dog,LL,correct,no_finding,total_body,Canine No Findings,Lea_Dog_Unknown
-IM-0015-0001-4280.dcm,Kira,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Kira_Dog_Unknown
-IM-0015-0001-4286.dcm,Isy,Border Collie,Dog,LL,correct,no_finding,,Canine No Findings,Isy_Dog_Border Collie
-IM-0015-0001-4334.dcm,Elettra,Italian Hound,Dog,LL,correct,no_finding,,Canine No Findings,Elettra_Dog_Italian Hound
-IM-0015-0001-4347.dcm,Didi,Yorkshire Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Didi_Dog_Yorkshire Terrier
-IM-0015-0001-4418.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-4420.dcm,Amos,Mixed Breed,Dog,LL,correct,no_finding,total_body,Canine No Findings,Amos_Dog_Mixed Breed
-IM-0015-0001-4446.dcm,Lilly,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Lilly_Dog_Unknown
-IM-0015-0001-4453.dcm,Billy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed
-IM-0015-0001-4456.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-4464.dcm,Ricky,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle
-IM-0015-0001-4479.dcm,Diana,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Diana_Dog_Mixed Breed
-IM-0015-0001-4489.dcm,Speedy,Whippet,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet
-IM-0015-0001-4503.dcm,Charly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Charly_Dog_Mixed Breed
-IM-0015-0001-4507.dcm,Max,German Shepherd,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Max_Dog_German Shepherd
-IM-0015-0001-4518.dcm,Benito,Beagle,Dog,LL,correct,no_finding,,Canine No Findings,Benito_Dog_Beagle
-IM-0015-0001-4529.dcm,Harley,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Harley_Dog_Unknown
-IM-0015-0001-4530.dcm,Ronnie,Golden Retriever,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ronnie_Dog_Golden Retriever
-IM-0015-0001-4539.dcm,Bilo,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Bilo_Dog_Mixed Breed
-IM-0015-0001-4554.dcm,Briciola,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Briciola_Dog_Poodle
-IM-0015-0001-4573.dcm,Blade,German Shepherd,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Blade_Dog_German Shepherd
-IM-0015-0001-4580.dcm,Charly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Charly_Dog_Mixed Breed
-IM-0015-0001-4585.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-4590.dcm,Billy,Unknown,Dog,LL,correct,no_finding,total_body,Canine No Findings,Billy_Dog_Unknown
-IM-0015-0001-4632.dcm,Sansone,Shih Tzu,Dog,LL,correct,no_finding,,Canine No Findings,Sansone_Dog_Shih Tzu
-IM-0015-0001-4657.dcm,Penny,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,moderate,Canine Cardiomegaly,Penny_Dog_Mixed Breed
-IM-0015-0001-4669.dcm,Dania,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Dania_Dog_Mixed Breed
-IM-0015-0001-4697.dcm,Jes,Cocker Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Jes_Dog_Cocker Spaniel
-IM-0015-0001-4709.dcm,Jes,Cocker Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Jes_Dog_Cocker Spaniel
-IM-0015-0001-4712.dcm,Charly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Charly_Dog_Mixed Breed
-IM-0015-0001-4733.dcm,Virgola,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel
-IM-0015-0001-4735.dcm,Boogie,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Boogie_Dog_Mixed Breed
-IM-0015-0001-4753.dcm,Virgola,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel
-IM-0015-0001-4762.dcm,Lapo,Beagle,Dog,LL,correct,no_finding,,Canine No Findings,Lapo_Dog_Beagle
-IM-0015-0001-4767.dcm,Boogie,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Boogie_Dog_Mixed Breed
-IM-0015-0001-4768.dcm,Ettore,French Bulldog,Dog,LL,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog
-IM-0015-0001-4774.dcm,Ricky,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle
-IM-0015-0001-4790.dcm,262182,American Staffordshire Terrier,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,262182_Dog_American Staffordshire Terrier
-IM-0015-0001-4791.dcm,Michelle,Great Dane,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Michelle_Dog_Great Dane
-IM-0015-0001-4801.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-4809.dcm,Virgola,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel
-IM-0015-0001-4824.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-4848.dcm,Kofy,Boxer,Dog,LL,correct,no_finding,spondylarthrosis,Canine No Findings,Kofy_Dog_Boxer
-IM-0015-0001-4853.dcm,Ricky,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle
-IM-0015-0001-4854.dcm,Emi,Australian Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,Emi_Dog_Australian Shepherd
-IM-0015-0001-4865.dcm,Maty,Dachshund,Dog,LL,correct,no_finding,,Canine No Findings,Maty_Dog_Dachshund
-IM-0015-0001-4866.dcm,Shary,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Shary_Dog_Mixed Breed
-IM-0015-0001-4872.dcm,Smarty,Maltese,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Smarty_Dog_Maltese
-IM-0015-0001-4878.dcm,Kira,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer
-IM-0015-0001-4897.dcm,Spank,Mixed Breed,Dog,LL,correct,alveolar_pattern|bronchial_pattern,severe,Canine Alveolar Pattern,Spank_Dog_Mixed Breed
-IM-0015-0001-4913.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-4931.dcm,Inti,Dogo Argentino,Dog,LL,correct,no_finding,,Canine No Findings,Inti_Dog_Dogo Argentino
-IM-0015-0001-4942.dcm,13982,Brittany Spaniel,Dog,LL,correct,no_finding,check,Canine No Findings,13982_Dog_Brittany Spaniel
-IM-0015-0001-4955.dcm,14153,Italian Hound,Dog,LL,correct,no_finding,,Canine No Findings,14153_Dog_Italian Hound
-IM-0015-0001-4979.dcm,Gig√¨,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Gig√¨_Dog_Mixed Breed
-IM-0015-0001-5043.dcm,Gig√¨,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed
-IM-0015-0001-5065.dcm,Billy,Unknown,Dog,LL,correct,no_finding|foreign_body,,Canine No Findings,Billy_Dog_Unknown
-IM-0015-0001-5105.dcm,Fly,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Fly_Dog_Boxer
-IM-0015-0001-5107.dcm,Michelle,Great Dane,Dog,LL,correct,mass|cardiomegaly,,Canine Cardiomegaly,Michelle_Dog_Great Dane
-IM-0015-0001-5113.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-5114.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-5137.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-5189.dcm,Berni,Mixed Breed,Dog,DV,correct,cardiomegaly|foreign_body,,Canine Cardiomegaly,Berni_Dog_Mixed Breed
-IM-0015-0001-5201.dcm,Gig√¨,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed
-IM-0015-0001-5257.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-5272.dcm,Happy,Standard Schnauzer,Dog,DV,correct,no_finding,,Canine No Findings,Happy_Dog_Standard Schnauzer
-IM-0015-0001-5278.dcm,Karma,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Karma_Dog_Mixed Breed
-IM-0015-0001-5287.dcm,Ugo,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Ugo_Dog_Boxer
-IM-0015-0001-5331.dcm,Birba,Unknown,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Birba_Dog_Unknown
-IM-0015-0001-5347.dcm,Cooper,French Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,Cooper_Dog_French Bulldog
-IM-0015-0001-5352.dcm,Birba,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-5358.dcm,Pinko,Bodeguero Ratomero Andaluz,Dog,DV,correct,no_finding,,Canine No Findings,Pinko_Dog_Bodeguero Ratomero Andaluz
-IM-0015-0001-5363.dcm,Billy,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Billy_Dog_Mixed Breed
-IM-0015-0001-5374.dcm,Havana,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Havana_Dog_Unknown
-IM-0015-0001-5381.dcm,Freddy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Freddy_Dog_Mixed Breed
-IM-0015-0001-5391.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-5395.dcm,Natty,Mixed Breed,Dog,DV,correct,no_finding,total_body,Canine No Findings,Natty_Dog_Mixed Breed
-IM-0015-0001-5409.dcm,Bea,English Setter,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Bea_Dog_English Setter
-IM-0015-0001-5414.dcm,Happy,Standard Schnauzer,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Happy_Dog_Standard Schnauzer
-IM-0015-0001-5431.dcm,3802600431196401 Pseudoar,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,3802600431196401 Pseudoar_Dog_Mixed Breed
-IM-0015-0001-5529.dcm,Kira,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Unknown
-IM-0015-0001-5540.dcm,Didi,Yorkshire Terrier,Dog,DV,correct,no_finding,total_body,Canine No Findings,Didi_Dog_Yorkshire Terrier
-IM-0015-0001-5557.dcm,Barret,Jack Russell Terrier,Dog,DV,correct,no_finding,,Canine No Findings,Barret_Dog_Jack Russell Terrier
-IM-0015-0001-5565.dcm,380260042149446,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,380260042149446_Dog_Mixed Breed
-IM-0015-0001-5568.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-5591.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-5596.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-5600.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed
-IM-0015-0001-5602.dcm,Isy,Border Collie,Dog,DV,correct,no_finding,,Canine No Findings,Isy_Dog_Border Collie
-IM-0015-0001-5641.dcm,Elettra,Italian Hound,Dog,DV,correct,no_finding,,Canine No Findings,Elettra_Dog_Italian Hound
-IM-0015-0001-5712.dcm,Billy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed
-IM-0015-0001-5727.dcm,Speedy,Whippet,Dog,DV,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet
-IM-0015-0001-5734.dcm,Briciola,Poodle,Dog,DV,correct,no_finding,mild,Canine No Findings,Briciola_Dog_Poodle
-IM-0015-0001-5739.dcm,Speedy,Whippet,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet
-IM-0015-0001-5742.dcm,Amos,Mixed Breed,Dog,DV,correct,cardiomegaly,total_body,Canine Cardiomegaly,Amos_Dog_Mixed Breed
-IM-0015-0001-5762.dcm,Buch,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Buch_Dog_Mixed Breed
-IM-0015-0001-5776.dcm,Harley,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Harley_Dog_Unknown
-IM-0015-0001-5781.dcm,Chicca,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed
-IM-0015-0001-5796.dcm,Benito,Beagle,Dog,DV,correct,no_finding,,Canine No Findings,Benito_Dog_Beagle
-IM-0015-0001-5797.dcm,Lilly,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Lilly_Dog_Unknown
-IM-0015-0001-5798.dcm,Billy,Unknown,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Billy_Dog_Unknown
-IM-0015-0001-5813.dcm,Ronnie,Golden Retriever,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Ronnie_Dog_Golden Retriever
-IM-0015-0001-5818.dcm,Ricky,Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle
-IM-0015-0001-5825.dcm,Diana,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Diana_Dog_Mixed Breed
-IM-0015-0001-5834.dcm,Dora,Labrador Retriever,Dog,DV,correct,no_finding,,Canine No Findings,Dora_Dog_Labrador Retriever
-IM-0015-0001-5849.dcm,Charly,Mixed Breed,Dog,DV,correct,cardiomegaly|foreign_body,,Canine Cardiomegaly,Charly_Dog_Mixed Breed
-IM-0015-0001-5855.dcm,Birba,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown
-IM-0015-0001-5881.dcm,Penny,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Penny_Dog_Mixed Breed
-IM-0015-0001-5885.dcm,Smarty,Maltese,Dog,DV,correct,no_finding,,Canine No Findings,Smarty_Dog_Maltese
-IM-0015-0001-5888.dcm,Michelle,Great Dane,Dog,DV,correct,no_finding|foreign_body,,Canine No Findings,Michelle_Dog_Great Dane
-IM-0015-0001-5908.dcm,Ricky,Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle
-IM-0015-0001-5931.dcm,Kofy,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kofy_Dog_Boxer
-IM-0015-0001-5971.dcm,Spank,Mixed Breed,Dog,DV,correct,alveolar_pattern|bronchial_pattern,severe,Canine Alveolar Pattern,Spank_Dog_Mixed Breed
-IM-0015-0001-5977.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-5996.dcm,Dania,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Dania_Dog_Mixed Breed
-IM-0015-0001-6002.dcm,Jes,Cocker Spaniel,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Jes_Dog_Cocker Spaniel
-IM-0015-0001-6017.dcm,Lapo,Beagle,Dog,DV,correct,no_finding,,Canine No Findings,Lapo_Dog_Beagle
-IM-0015-0001-6044.dcm,Spank,Mixed Breed,Dog,DV,correct,alveolar_pattern|bronchial_pattern,severe,Canine Alveolar Pattern,Spank_Dog_Mixed Breed
-IM-0015-0001-6046.dcm,Maty,Dachshund,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Maty_Dog_Dachshund
-IM-0015-0001-6056.dcm,Asia,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0015-0001-6073.dcm,Boogie,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Boogie_Dog_Mixed Breed
-IM-0015-0001-6077.dcm,Ettore,French Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog
-IM-0015-0001-6083.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer
-IM-0015-0001-6094.dcm,Gig√¨,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed
-IM-0015-0001-6095.dcm,Billy,Unknown,Dog,DV,correct,no_finding|foreign_body,,Canine No Findings,Billy_Dog_Unknown
-IM-0015-0001-6126.dcm,Virgola,Cavalier King Charles Spaniel,Dog,DV,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel
-IM-0015-0001-6138.dcm,Billy,Unknown,Dog,DV,correct,alveolar_pattern|mass|foreign_body,,Canine Alveolar Pattern,Billy_Dog_Unknown
-IM-0015-0001-6141.dcm,Billy,Unknown,Dog,DV,correct,no_finding|foreign_body,,Canine No Findings,Billy_Dog_Unknown
-IM-0015-0001-6157.dcm,14153,Italian Hound,Dog,DV,correct,no_finding,,Canine No Findings,14153_Dog_Italian Hound
-IM-0015-0001-6212.dcm,13982,Brittany Spaniel,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,13982_Dog_Brittany Spaniel
-IM-0015-0001-6239.dcm,Diana,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Diana_Dog_Mixed Breed
-IM-0015-0001-6263.dcm,Fly,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Fly_Dog_Boxer
-IM-0015-0001-6267.dcm,Speedy,Whippet,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet
-IM-0015-0001-6268.dcm,Michelle,Great Dane,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Michelle_Dog_Great Dane
-IM-0015-0001-6271.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed
-IM-0015-0001-6292.dcm,n.a.,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,n.a._Cat_European Shorthair
-IM-0015-0001-6310.dcm,Blu,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair
-IM-0015-0001-6312.dcm,Gonzalo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Gonzalo_Cat_European Shorthair
-IM-0015-0001-6314.dcm,Spriz,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Spriz_Cat_European Shorthair
-IM-0015-0001-6366.dcm,Sibilla,Unknown,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Sibilla_Cat_Unknown
-IM-0015-0001-6374.dcm,Gnacchi,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Gnacchi_Cat_European Shorthair
-IM-0015-0001-6382.dcm,Zela,Tortoiseshell Cat,Cat,LL,correct,no_finding,,Feline No Findings,Zela_Cat_Tortoiseshell Cat
-IM-0015-0001-6468.dcm,Fumo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Fumo_Cat_European Shorthair
-IM-0015-0001-6488.dcm,Red,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Red_Cat_European Shorthair
-IM-0015-0001-6504.dcm,Giulio,European Shorthair,Cat,LL,correct,pleural_effusion|interstitial_pattern|alveolar_pattern,,Feline Alveolar Pattern,Giulio_Cat_European Shorthair
-IM-0015-0001-6412.dcm,Saffo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Saffo_Cat_European Shorthair
-IM-0015-0001-6548.dcm,Tilikum,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Tilikum_Cat_European Shorthair
-IM-0015-0001-6568.dcm,gatto Grigio Tigrato,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,gatto Grigio Tigrato_Cat_Unknown
-IM-0015-0001-6574.dcm,Pippo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Pippo_Cat_European Shorthair
-IM-0015-0001-6611.dcm,Nerino,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Nerino_Cat_European Shorthair
-IM-0015-0001-6624.dcm,Aslan,Unknown,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Aslan_Cat_Unknown
-IM-0015-0001-6726.dcm,Arturo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Arturo_Cat_European Shorthair
-IM-0015-0001-6727.dcm,Perla,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Perla_Cat_European Shorthair
-IM-0015-0001-6737.dcm,Giulio,European Shorthair,Cat,DV,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Giulio_Cat_European Shorthair
-IM-0015-0001-6898.dcm,Spriz,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Spriz_Cat_European Shorthair
-IM-0015-0001-6941.dcm,Gonzalo,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Gonzalo_Cat_European Shorthair
-IM-0015-0001-7013.dcm,Nero,European Shorthair,Cat,DV,correct,cardiomegaly|interstitial_pattern,,Feline Cardiomegaly,Nero_Cat_European Shorthair
-IM-0015-0001-7042.dcm,Nerino,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Nerino_Cat_European Shorthair
-IMG-0004-0002.dcm,Agata,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair
-IMG-0164-0002.dcm,Chanel,Barbet,Dog,DV,correct,no_finding,,Canine No Findings,Chanel_Dog_Barbet
-IMG-0348-0002.dcm,Fin,European Shorthair,Cat,DV,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair
-IMG-0350-0002.dcm,Fin,European Shorthair,Cat,DV,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair
-IMG-0527-0001.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer
-IMG-0347-0001.dcm,Fin,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair
-IMG-0349-0001.dcm,Fin,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair
-IMG-0351-0003.dcm,Fin,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair
-IMG-0926-0001.dcm,Priscilla,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair
-IMG-0964-0001.dcm,Sabik,Whippet,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Sabik_Dog_Whippet
-IMG-0928-0004.dcm,Priscilla,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair
-IM-0011-0001.dcm,Achille,Labrador Retriever,Dog,LL,correct,alveolar_pattern|mass,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever
-IM-0015-0001.dcm,Agata,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair
-IM-0017-0001.dcm,Agata,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair
-IM-0031-0001.dcm,Aku,Belgian Shepherd Malinois,Dog,LL,correct,pleural_effusion|alveolar_pattern,,Canine Alveolar Pattern,Aku_Dog_Belgian Shepherd Malinois
-IM-0036-0001.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed
-IM-0038-0001-0001.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed
-IM-0038-0001-0002.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed
-IM-0038-0001-0004.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed
-IM-0062-0001.dcm,Alma,Labrador Retriever,Dog,LL,correct,no_finding|pleural_mineralization,,Canine No Findings,Alma_Dog_Labrador Retriever
-IM-0070-0002-0001.dcm,Alyssa,Tibetan Spaniel,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Alyssa_Dog_Tibetan Spaniel
-IM-0070-0002-0002.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown
-IM-0071-0001-0001.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown
-IM-0073-0001.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown
-IM-0074-0002.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown
-IM-0075-0003.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown
-IM-0076-0001.dcm,Ambra,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Ambra_Dog_Unknown
-IM-0118-0002.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0227-0001.dcm,Birbo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Birbo_Cat_European Shorthair
-IM-0256-0001-0002.dcm,Bosco,Spinone Italiano,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano
-IM-0260-0001-0001.dcm,Bosco,Spinone Italiano,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano
-IM-0279-0001.dcm,BRICIOLA,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,BRICIOLA_Dog_Mixed Breed
-IM-0301-0002.dcm,CAMILLA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,CAMILLA_Dog_Unknown
-IM-0302-0003.dcm,CAMILLA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,CAMILLA_Dog_Unknown
-IM-0395-0001.dcm,Chloe,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Chloe_Cat_European Shorthair
-IM-0426-0001.dcm,Cleo,Jack Russell Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Cleo_Dog_Jack Russell Terrier
-IM-0431-0001.dcm,Cleopatra,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Cleopatra_Cat_European Shorthair
-IM-0468-0001.dcm,Diana,Border Collie,Dog,LL,correct,no_finding,,Canine No Findings,Diana_Dog_Border Collie
-IM-0545-0001-0001.dcm,Erik,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Erik_Cat_European Shorthair
-IM-0556-0001.dcm,Ettore,French Bulldog,Dog,LL,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog
-IM-0718-0001.dcm,Holly,Yorkshire Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Holly_Dog_Yorkshire Terrier
-IM-0766-0001.dcm,KALI,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown
-IM-0769-0004.dcm,KALI,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown
-IM-0837-0002.dcm,Lana,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Lana_Cat_Unknown
-IM-0876-0001-0002.dcm,Life,Bull Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Life_Dog_Bull Terrier
-IM-0957-0001.dcm,luna,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,luna_Cat_Unknown
-IM-0959-0003.dcm,luna,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,luna_Cat_Unknown
-IM-0964-0001.dcm,Luna,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Luna_Dog_Irish Setter
-IM-0966-0001.dcm,Luna,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Luna_Dog_Irish Setter
-IM-1045-0002.dcm,MAYA,Unknown,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,MAYA_Dog_Unknown
-IM-1049-0002.dcm,MAYA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,MAYA_Dog_Unknown
-IM-1050-0003.dcm,MAYA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,MAYA_Dog_Unknown
-IM-1134-0001.dcm,Mimo,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Mimo_Cat_European Shorthair
-IM-1182-0001-0003.dcm,Nero,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Nero_Cat_European Shorthair
-IM-1182-0001-0004.dcm,Nero,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Nero_Cat_European Shorthair
-IM-1182-0001-0005.dcm,Nero,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Nero_Cat_European Shorthair
-IM-1333-0001-0002.dcm,Perla,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Perla_Cat_European Shorthair
-IM-1453-0001-0001.dcm,Rocco,Chihuahua,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Rocco_Dog_Chihuahua
-IM-1460-0001.dcm,rocky,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,rocky_Dog_Mixed Breed
-IM-1464-0003.dcm,rocky,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,rocky_Dog_Mixed Breed
-IM-1484-0001-0003.dcm,ROSARIO,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,ROSARIO_Cat_European Shorthair
-IM-1491-0001.dcm,Rucola,Bolognese,Dog,LL,correct,no_finding,,Canine No Findings,Rucola_Dog_Bolognese
-IM-1507-0001.dcm,Saphira,Hovawart,Dog,LL,correct,no_finding,,Canine No Findings,Saphira_Dog_Hovawart
-IM-1508-0002.dcm,Saphira,Hovawart,Dog,LL,correct,no_finding,,Canine No Findings,Saphira_Dog_Hovawart
-IM-1669-0001-0001.dcm,Tobia,Bolognese,Dog,LL,correct,no_finding,,Canine No Findings,Tobia_Dog_Bolognese
-IM-1734-0002.dcm,Tyrion,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Tyrion_Cat_European Shorthair
-IM-1774-0001.dcm,Willie,Australian Shepherd,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Willie_Dog_Australian Shepherd
-IM-1776-0001-0001.dcm,Willie,Australian Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,Willie_Dog_Australian Shepherd
-IM-1785-0002.dcm,Wisky,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Wisky_Cat_Unknown
-IM-1786-0003.dcm,Wisky,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Wisky_Cat_Unknown
-IM-1829-0001.dcm,ZOE,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,ZOE_Dog_Unknown
-IM-1846-0001.dcm,Zuma,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed
-IM-1850-0004.dcm,Zuma,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed
-IMG-0002-0002.dcm,Amy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Amy_Dog_Mixed Breed
-IMG-0003-0001.dcm,Agata,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair
-IMG-0022-0002.dcm,Amy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Amy_Dog_Mixed Breed
-IMG-0039-0001.dcm,Arturo,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Arturo_Dog_Mixed Breed
-IMG-0064-0001.dcm,Bella,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Bella_Cat_European Shorthair
-IMG-0163-0001.dcm,Chanel,Barbet,Dog,LL,correct,no_finding,,Canine No Findings,Chanel_Dog_Barbet
-IMG-0165-0003.dcm,Chanel,Barbet,Dog,LL,correct,no_finding,,Canine No Findings,Chanel_Dog_Barbet
-IM-0012-0002.dcm,Achille,Labrador Retriever,Dog,VD,correct,alveolar_pattern|mass,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever
-IM-0016-0002.dcm,Agata,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair
-IM-0018-0002.dcm,Agata,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair
-IM-0030-0003.dcm,Aku,Belgian Shepherd Malinois,Dog,VD,correct,alveolar_pattern|pleural_effusion,,Canine Alveolar Pattern,Aku_Dog_Belgian Shepherd Malinois
-IM-0038-0001-0003.dcm,Alaska,Mixed Breed,Dog,VD,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed
-IM-0063-0002.dcm,Alma,Labrador Retriever,Dog,VD,correct,no_finding|pleural_mineralization,,Canine No Findings,Alma_Dog_Labrador Retriever
-IM-0066-0003.dcm,Alvise,Vizsla,Dog,VD,correct,pleural_effusion|alveolar_pattern,,Canine Alveolar Pattern,Alvise_Dog_Vizsla
-IM-0069-0001.dcm,Alyssa,Tibetan Spaniel,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Alyssa_Dog_Tibetan Spaniel
-IM-0077-0003.dcm,Ambra,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,Ambra_Dog_Unknown
-IM-0117-0001.dcm,Asia,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed
-IM-0257-0002.dcm,Bosco,Spinone Italiano,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano
-IM-0258-0003.dcm,Bosco,Spinone Italiano,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano
-IM-0280-0002.dcm,BRICIOLA,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,BRICIOLA_Dog_Mixed Breed
-IM-0300-0001-0002.dcm,CAMILLA,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,CAMILLA_Dog_Unknown
-IM-0396-0002.dcm,Chloe,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Chloe_Cat_European Shorthair
-IM-0427-0002.dcm,Cleo,Jack Russell Terrier,Dog,VD,correct,no_finding,,Canine No Findings,Cleo_Dog_Jack Russell Terrier
-IM-0432-0002.dcm,Cleopatra,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Cleopatra_Cat_European Shorthair
-IM-0469-0002.dcm,Diana,Border Collie,Dog,VD,correct,no_finding,,Canine No Findings,Diana_Dog_Border Collie
-IM-0557-0002.dcm,Ettore,French Bulldog,Dog,VD,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog
-IM-0719-0002.dcm,Holly,Yorkshire Terrier,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Holly_Dog_Yorkshire Terrier
-IM-0720-0003.dcm,Holly,Yorkshire Terrier,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Holly_Dog_Yorkshire Terrier
-IM-0767-0002.dcm,KALI,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown
-IM-0768-0003.dcm,KALI,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown
-IM-0836-0001.dcm,Lana,Unknown,Cat,VD,correct,no_finding,,Feline No Findings,Lana_Cat_Unknown
-IM-0894-0002.dcm,Lilli,Australian Shepherd,Dog,VD,correct,alveolar_pattern,,Canine Alveolar Pattern,Lilli_Dog_Australian Shepherd
-IM-0958-0002.dcm,luna,Unknown,Cat,VD,correct,no_finding,,Feline No Findings,luna_Cat_Unknown
-IM-0965-0002.dcm,Luna,Irish Setter,Dog,VD,correct,no_finding,,Canine No Findings,Luna_Dog_Irish Setter
-IM-1048-0001.dcm,MAYA,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,MAYA_Dog_Unknown
-IM-1135-0002.dcm,Mimo,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,Mimo_Cat_European Shorthair
-IM-1182-0001-0002.dcm,Nerino,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Nerino_Cat_European Shorthair
-IM-1334-0002.dcm,Perla,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Perla_Cat_European Shorthair
-IM-1461-0002.dcm,rocky,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,rocky_Dog_Mixed Breed
-IM-1485-0002.dcm,ROSARIO,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,ROSARIO_Cat_European Shorthair
-IM-1669-0001-0002.dcm,Tobia,Bolognese,Dog,VD,correct,no_finding,,Canine No Findings,Tobia_Dog_Bolognese
-IM-1733-0001.dcm,Tyrion,European Shorthair,Cat,VD,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Tyrion_Cat_European Shorthair
-IM-1775-0002.dcm,Willie,Australian Shepherd,Dog,VD,correct,alveolar_pattern,,Canine Alveolar Pattern,Willie_Dog_Australian Shepherd
-IM-1813-0001.dcm,zeus,Unknown,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,zeus_Dog_Unknown
-IM-1816-0003.dcm,zeus,Unknown,Dog,VD,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,zeus_Dog_Unknown
-IM-1830-0002.dcm,ZOE,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,ZOE_Dog_Unknown
-IM-1845-0003.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed
-IM-1847-0000.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed
-IM-1848-0003.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed
-IM-1849-0005.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed
-IMT-0081-0001.dcm,Topolino,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Topolino_Cat_European Shorthair
-IMT-0082-0002.dcm,Topolino,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Topolino_Cat_European Shorthair
-IMT-0083-0002.dcm,Topolino,European Shorthair,Cat,DV,correct,alveolar_pattern,,Feline Alveolar Pattern,Topolino_Cat_European Shorthair
-IMT-0084-0001.dcm,Topolino,European Shorthair,Cat,VD,correct,alveolar_pattern,,Feline Alveolar Pattern,Topolino_Cat_European Shorthair
-IMT-0085-0001.dcm,Topolino,European Shorthair,Cat,LL,correct,alveolar_pattern|interstitial_pattern,,Feline Alveolar Pattern,Topolino_Cat_European Shorthair
-IMT-0292-0001.dcm,Priscilla,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair
-IMT-0293-0002.dcm,Priscilla,European Shorthair,Cat,DV,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair
-IMT-0294-0004.dcm,Priscilla,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair
-IMT-0334-0001.dcm,Perla,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Perla_Cat_European Shorthair
-IMT-0368-0001.dcm,olivia,French Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,olivia_Dog_French Bulldog
-IMT-0471-0001.dcm,Loki,Lagorai Mountain Dog,Dog,LL,correct,no_finding,,Canine No Findings,Loki_Dog_Lagorai Mountain Dog
-IMT-0472-0000.dcm,Loki,Lagorai Mountain Dog,Dog,DV,correct,no_finding,,Canine No Findings,Loki_Dog_Lagorai Mountain Dog
-IMT-0502-0002.dcm,Lara,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Lara_Dog_Cavalier King Charles Spaniel
-IMT-0695-0001.dcm,Cotone,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Cotone_Cat_European Shorthair
-IMT-0697-0003.dcm,Cotone,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Cotone_Cat_European Shorthair
-IMT-0709-0001.dcm,Claretta,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Claretta_Cat_European Shorthair
-IMT-0711-0001.dcm,Claretta,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Claretta_Cat_European Shorthair
-IMT-0896-0001.dcm,Achille,Labrador Retriever,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever
-IMT-0899-0005.dcm,Achille,Labrador Retriever,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever
-IMV-IM-0084-0001.dcm,Sophie,Scottish Straight,Cat,LL,correct,no_finding,,Feline No Findings,Sophie_Cat_Scottish Straight
-IMV-IM-0419-0002.dcm,Elettra,Tabby Cat,Cat,LL,correct,cardiomegaly|interstitial_pattern,,Feline Cardiomegaly,Elettra_Cat_Tabby Cat
-IMV-IM-0421-0004.dcm,Elettra,Tabby Cat,Cat,LL,correct,cardiomegaly|interstitial_pattern,,Feline Cardiomegaly,Elettra_Cat_Tabby Cat
-IMA-0113-0001.dcm,Gilly,Shih Tzu,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Gilly_Dog_Shih Tzu
-IMA-0114-0002.dcm,Gilly,Shih Tzu,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Gilly_Dog_Shih Tzu
-IMA-0150-0001.dcm,Briciola,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Briciola_Cat_European Shorthair
+FileName,PatientName,breed,specie,Projection,Quality,TAG,NOTE,Class,Patient_Group_ID,png_filename,filepath
+IM-0015-0001-0005.dcm,Papusse,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Papusse_Cat_European Shorthair,IM-0015-0001-0005.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0005.png
+IM-0015-0001-0012.dcm,Semola,Weimaraner,Dog,DV,correct,no_finding,,Canine No Findings,Semola_Dog_Weimaraner,IM-0015-0001-0012.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0012.png
+IM-0015-0001-0018.dcm,Mirtha,Shih Tzu,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Mirtha_Dog_Shih Tzu,IM-0015-0001-0018.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-0018.png
+IM-0015-0001-0054.dcm,Mirtha,Shih Tzu,Dog,DV,correct,no_finding,,Canine No Findings,Mirtha_Dog_Shih Tzu,IM-0015-0001-0054.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0054.png
+IM-0015-0001-0056.dcm,Chimo,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chimo_Dog_Mixed Breed,IM-0015-0001-0056.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0056.png
+IM-0015-0001-0078.dcm,Bingo,Old English Sheepdog,Dog,DV,correct,no_finding,,Canine No Findings,Bingo_Dog_Old English Sheepdog,IM-0015-0001-0078.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0078.png
+IM-0015-0001-0094.dcm,Carmen,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Carmen_Dog_Boxer,IM-0015-0001-0094.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0094.png
+IM-0015-0001-0117.dcm,Bingo,Old English Sheepdog,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog,IM-0015-0001-0117.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-0117.png
+IM-0015-0001-0132.dcm,Chimo,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chimo_Dog_Mixed Breed,IM-0015-0001-0132.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0132.png
+IM-0015-0001-0160.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-0160.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0160.png
+IM-0015-0001-0208.dcm,Chimo,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chimo_Dog_Mixed Breed,IM-0015-0001-0208.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0208.png
+IM-0015-0001-0254.dcm,Mimo,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Mimo_Cat_European Shorthair,IM-0015-0001-0254.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0254.png
+IM-0015-0001-0301.dcm,Nobel,Unknown,Dog,LL,correct,cardiomegaly|interstitial_pattern,total_body,Canine Cardiomegaly,Nobel_Dog_Unknown,IM-0015-0001-0301.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-0301.png
+IM-0015-0001-0423.dcm,Blu,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair,IM-0015-0001-0423.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0423.png
+IM-0015-0001-0440.dcm,Red,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Red_Cat_European Shorthair,IM-0015-0001-0440.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0440.png
+IM-0015-0001-0463.dcm,August,Jack Russell Terrier,Dog,LL,correct,no_finding,,Canine No Findings,August_Dog_Jack Russell Terrier,IM-0015-0001-0463.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0463.png
+IM-0015-0001-0465.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-0465.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0465.png
+IM-0015-0001-0466.dcm,Birba,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-0466.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0466.png
+IM-0015-0001-0492.dcm,Mio,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Mio_Cat_Unknown,IM-0015-0001-0492.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0492.png
+IM-0015-0001-0500.dcm,August,Jack Russell Terrier,Dog,DV,correct,no_finding,,Canine No Findings,August_Dog_Jack Russell Terrier,IM-0015-0001-0500.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0500.png
+IM-0015-0001-0516.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-0516.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0516.png
+IM-0015-0001-0527.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-0527.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0527.png
+IM-0015-0001-0608.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-0608.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0608.png
+IM-0015-0001-0634.dcm,Tosca,English Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,Tosca_Dog_English Bulldog,IM-0015-0001-0634.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0634.png
+IM-0015-0001-0638.dcm,Mio,Unknown,Cat,DV,correct,no_finding,,Feline No Findings,Mio_Cat_Unknown,IM-0015-0001-0638.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0638.png
+IM-0015-0001-0704.dcm,Blu,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair,IM-0015-0001-0704.png,Processed_Dataset\Feline No Findings\IM-0015-0001-0704.png
+IM-0015-0001-0786.dcm,Billy,Mixed Breed,Dog,LL,correct,alveolar_pattern|pneumothorax,,Canine Alveolar Pattern,Billy_Dog_Mixed Breed,IM-0015-0001-0786.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-0786.png
+IM-0015-0001-0795.dcm,Bingo,Old English Sheepdog,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog,IM-0015-0001-0795.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-0795.png
+IM-0015-0001-0822.dcm,Walter,European Shorthair,Cat,LL,correct,pleural_mineralization|cardiomegaly,,Feline Cardiomegaly,Walter_Cat_European Shorthair,IM-0015-0001-0822.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-0822.png
+IM-0015-0001-0823.dcm,Elly,Mixed Breed,Dog,LL,correct,interstitial_pattern|no_finding,,Canine No Findings,Elly_Dog_Mixed Breed,IM-0015-0001-0823.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0823.png
+IM-0015-0001-0841.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-0841.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0841.png
+IM-0015-0001-0842.dcm,Lady,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Lady_Dog_Irish Setter,IM-0015-0001-0842.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0842.png
+IM-0015-0001-0874.dcm,Elly,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Elly_Dog_Mixed Breed,IM-0015-0001-0874.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0874.png
+IM-0015-0001-0895.dcm,Euforia,Great Dane,Dog,DV,correct,no_finding,,Canine No Findings,Euforia_Dog_Great Dane,IM-0015-0001-0895.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0895.png
+IM-0015-0001-0942.dcm,Asia,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-0942.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0942.png
+IM-0015-0001-0964.dcm,Pepper,French Bulldog,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Pepper_Dog_French Bulldog,IM-0015-0001-0964.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-0964.png
+IM-0015-0001-0999.dcm,Euforia,Great Dane,Dog,LL,correct,no_finding,,Canine No Findings,Euforia_Dog_Great Dane,IM-0015-0001-0999.png,Processed_Dataset\Canine No Findings\IM-0015-0001-0999.png
+IM-0015-0001-1003.dcm,Chicca,Mixed Breed,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-1003.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-1003.png
+IM-0015-0001-1006.dcm,Charly,Unknown,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Charly_Dog_Unknown,IM-0015-0001-1006.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1006.png
+IM-0015-0001-1026.dcm,Pepper,French Bulldog,Dog,LL,correct,cardiomegaly|bronchial_pattern,check,Canine Cardiomegaly,Pepper_Dog_French Bulldog,IM-0015-0001-1026.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1026.png
+IM-0015-0001-1079.dcm,Billy,Mixed Breed,Dog,DV,correct,alveolar_pattern|pneumothorax,,Canine Alveolar Pattern,Billy_Dog_Mixed Breed,IM-0015-0001-1079.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-1079.png
+IM-0015-0001-1080.dcm,Isotta,Labrador Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Isotta_Dog_Labrador Retriever,IM-0015-0001-1080.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1080.png
+IM-0015-0001-1097.dcm,Zorro,Jack Russell Terrier,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Zorro_Dog_Jack Russell Terrier,IM-0015-0001-1097.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1097.png
+IM-0015-0001-1117.dcm,Toby,Toy Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Toby_Dog_Toy Poodle,IM-0015-0001-1117.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1117.png
+IM-0015-0001-1119.dcm,Rolly,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Rolly_Dog_Mixed Breed,IM-0015-0001-1119.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1119.png
+IM-0015-0001-1120.dcm,Sbrana,Giant Schnauzer,Dog,DV,correct,no_finding,,Canine No Findings,Sbrana_Dog_Giant Schnauzer,IM-0015-0001-1120.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1120.png
+IM-0015-0001-1136.dcm,Rolly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Rolly_Dog_Mixed Breed,IM-0015-0001-1136.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1136.png
+IM-0015-0001-1145.dcm,Bud,Rottweiler,Dog,DV,correct,no_finding,,Canine No Findings,Bud_Dog_Rottweiler,IM-0015-0001-1145.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1145.png
+IM-0015-0001-1148.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer,IM-0015-0001-1148.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1148.png
+IM-0015-0001-1167.dcm,Bud,Rottweiler,Dog,DV,correct,no_finding,,Canine No Findings,Bud_Dog_Rottweiler,IM-0015-0001-1167.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1167.png
+IM-0015-0001-1218.dcm,Speedy,Whippet,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet,IM-0015-0001-1218.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1218.png
+IM-0015-0001-1225.dcm,Lucky,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Lucky_Dog_Unknown,IM-0015-0001-1225.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1225.png
+IM-0015-0001-1244.dcm,Margherita,Mixed Breed,Dog,DV,correct,alveolar_pattern|pneumothorax|fracture,total_body,Canine Alveolar Pattern,Margherita_Dog_Mixed Breed,IM-0015-0001-1244.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-1244.png
+IM-0015-0001-1255.dcm,Lassie,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Lassie_Dog_Mixed Breed,IM-0015-0001-1255.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1255.png
+IM-0015-0001-1294.dcm,Sbrana,Giant Schnauzer,Dog,DV,correct,no_finding,,Canine No Findings,Sbrana_Dog_Giant Schnauzer,IM-0015-0001-1294.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1294.png
+IM-0015-0001-1342.dcm,Corvina,Bichon Frisé,Dog,LL,correct,no_finding,,Canine No Findings,Corvina_Dog_Bichon Frisé,IM-0015-0001-1342.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1342.png
+IM-0015-0001-1349.dcm,Ada,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Ada_Dog_Boxer,IM-0015-0001-1349.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1349.png
+IM-0015-0001-1382.dcm,Bud,Rottweiler,Dog,LL,correct,no_finding,,Canine No Findings,Bud_Dog_Rottweiler,IM-0015-0001-1382.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1382.png
+IM-0015-0001-1384.dcm,Ada,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ada_Dog_Boxer,IM-0015-0001-1384.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1384.png
+IM-0015-0001-1399.dcm,Birba,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Birba_Cat_Unknown,IM-0015-0001-1399.png,Processed_Dataset\Feline No Findings\IM-0015-0001-1399.png
+IM-0015-0001-1405.dcm,Sbrana,Giant Schnauzer,Dog,LL,correct,no_finding,,Canine No Findings,Sbrana_Dog_Giant Schnauzer,IM-0015-0001-1405.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1405.png
+IM-0015-0001-1422.dcm,Birba,Unknown,Cat,DV,correct,no_finding,,Feline No Findings,Birba_Cat_Unknown,IM-0015-0001-1422.png,Processed_Dataset\Feline No Findings\IM-0015-0001-1422.png
+IM-0015-0001-1455.dcm,Ron,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Ron_Dog_Mixed Breed,IM-0015-0001-1455.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1455.png
+IM-0015-0001-1487.dcm,Lucky,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Lucky_Dog_Unknown,IM-0015-0001-1487.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1487.png
+IM-0015-0001-1510.dcm,Spillo,Cavalier King Charles Spaniel,Dog,DV,correct,no_finding,,Canine No Findings,Spillo_Dog_Cavalier King Charles Spaniel,IM-0015-0001-1510.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1510.png
+IM-0015-0001-1521.dcm,Rocco,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Rocco_Dog_Mixed Breed,IM-0015-0001-1521.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1521.png
+IM-0015-0001-1538.dcm,Briciola,Poodle,Dog,DV,correct,alveolar_pattern|mass|pleural_effusion,,Canine Alveolar Pattern,Briciola_Dog_Poodle,IM-0015-0001-1538.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-1538.png
+IM-0015-0001-1584.dcm,Elvis,Persian,Cat,DV,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Elvis_Cat_Persian,IM-0015-0001-1584.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-1584.png
+IM-0015-0001-1586.dcm,Biba,Pomeranian,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Biba_Dog_Pomeranian,IM-0015-0001-1586.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1586.png
+IM-0015-0001-1631.dcm,Polpetta,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Polpetta_Cat_European Shorthair,IM-0015-0001-1631.png,Processed_Dataset\Feline No Findings\IM-0015-0001-1631.png
+IM-0015-0001-1672.dcm,Lapo,Golden Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Lapo_Dog_Golden Retriever,IM-0015-0001-1672.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1672.png
+IM-0015-0001-1684.dcm,Rocco,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Rocco_Dog_Mixed Breed,IM-0015-0001-1684.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1684.png
+IM-0015-0001-1716.dcm,Matilde,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Matilde_Dog_Boxer,IM-0015-0001-1716.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1716.png
+IM-0015-0001-1729.dcm,Tiffy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-1729.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1729.png
+IM-0015-0001-1730.dcm,Ron,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ron_Dog_Mixed Breed,IM-0015-0001-1730.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1730.png
+IM-0015-0001-1753.dcm,Edgar,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Edgar_Dog_Mixed Breed,IM-0015-0001-1753.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1753.png
+IM-0015-0001-1774.dcm,TOMMY,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,TOMMY_Dog_Mixed Breed,IM-0015-0001-1774.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1774.png
+IM-0015-0001-1781.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-1781.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1781.png
+IM-0015-0001-1833.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-1833.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1833.png
+IM-0015-0001-1838.dcm,Lia,Bull Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Lia_Dog_Bull Terrier,IM-0015-0001-1838.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1838.png
+IM-0015-0001-1842.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-1842.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1842.png
+IM-0015-0001-1852.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-1852.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1852.png
+IM-0015-0001-1881.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-1881.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1881.png
+IM-0015-0001-1901.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer,IM-0015-0001-1901.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1901.png
+IM-0015-0001-1936.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter,IM-0015-0001-1936.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1936.png
+IM-0015-0001-1939.dcm,Spino,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Spino_Dog_Mixed Breed,IM-0015-0001-1939.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1939.png
+IM-0015-0001-1943.dcm,TOMMY,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,check,Canine Cardiomegaly,TOMMY_Dog_Mixed Breed,IM-0015-0001-1943.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-1943.png
+IM-0015-0001-1960.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-1960.png,Processed_Dataset\Canine No Findings\IM-0015-0001-1960.png
+IM-0015-0001-2018.dcm,Tika,German Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,Tika_Dog_German Shepherd,IM-0015-0001-2018.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2018.png
+IM-0015-0001-2044.dcm,Patty,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Patty_Dog_Mixed Breed,IM-0015-0001-2044.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2044.png
+IM-0015-0001-2061.dcm,Spank,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Spank_Dog_Mixed Breed,IM-0015-0001-2061.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2061.png
+IM-0015-0001-2063.dcm,Matisse,Labrador Retriever,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Matisse_Dog_Labrador Retriever,IM-0015-0001-2063.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-2063.png
+IM-0015-0001-2068.dcm,Patty,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Patty_Dog_Mixed Breed,IM-0015-0001-2068.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2068.png
+IM-0015-0001-2076.dcm,Spank,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Spank_Dog_Mixed Breed,IM-0015-0001-2076.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2076.png
+IM-0015-0001-2077.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier,IM-0015-0001-2077.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2077.png
+IM-0015-0001-2088.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier,IM-0015-0001-2088.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2088.png
+IM-0015-0001-2108.dcm,Crostatina,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Crostatina_Cat_European Shorthair,IM-0015-0001-2108.png,Processed_Dataset\Feline No Findings\IM-0015-0001-2108.png
+IM-0015-0001-2112.dcm,Kira,Siberian Husky,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Siberian Husky,IM-0015-0001-2112.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2112.png
+IM-0015-0001-2117.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier,IM-0015-0001-2117.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2117.png
+IM-0015-0001-2119.dcm,Crio,Newfoundland,Dog,LL,correct,no_finding|pleural_mineralization,,Canine No Findings,Crio_Dog_Newfoundland,IM-0015-0001-2119.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2119.png
+IM-0015-0001-2121.dcm,Lulu',Jack Russell Terrier,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier,IM-0015-0001-2121.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2121.png
+IM-0015-0001-2129.dcm,Crio,Newfoundland,Dog,DV,correct,no_finding,,Canine No Findings,Crio_Dog_Newfoundland,IM-0015-0001-2129.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2129.png
+IM-0015-0001-2142.dcm,Crostatina,European Shorthair,Cat,DV,correct,cardiomegaly,check,Feline Cardiomegaly,Crostatina_Cat_European Shorthair,IM-0015-0001-2142.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-2142.png
+IM-0015-0001-2148.dcm,Matisse,Labrador Retriever,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Matisse_Dog_Labrador Retriever,IM-0015-0001-2148.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-2148.png
+IM-0015-0001-2150.dcm,Serse,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Serse_Dog_Unknown,IM-0015-0001-2150.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2150.png
+IM-0015-0001-2158.dcm,Spank,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Spank_Dog_Mixed Breed,IM-0015-0001-2158.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2158.png
+IM-0015-0001-2182.dcm,Ottimo,Labrador Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Ottimo_Dog_Labrador Retriever,IM-0015-0001-2182.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2182.png
+IM-0015-0001-2188.dcm,Penny,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Penny_Dog_Mixed Breed,IM-0015-0001-2188.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2188.png
+IM-0015-0001-2290.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2290.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2290.png
+IM-0015-0001-2295.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2295.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2295.png
+IM-0015-0001-2296.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2296.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2296.png
+IM-0015-0001-2300.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2300.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2300.png
+IM-0015-0001-2307.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2307.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2307.png
+IM-0015-0001-2317.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2317.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2317.png
+IM-0015-0001-2337.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-2337.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2337.png
+IM-0015-0001-2377.dcm,India,German Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,India_Dog_German Shepherd,IM-0015-0001-2377.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2377.png
+IM-0015-0001-2419.dcm,India,German Shepherd,Dog,DV,correct,no_finding,,Canine No Findings,India_Dog_German Shepherd,IM-0015-0001-2419.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2419.png
+IM-0015-0001-2510.dcm,Edgar,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Edgar_Dog_Mixed Breed,IM-0015-0001-2510.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2510.png
+IM-0015-0001-2521.dcm,Riccardo,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Riccardo_Dog_Mixed Breed,IM-0015-0001-2521.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2521.png
+IM-0015-0001-2533.dcm,Edgar,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Edgar_Dog_Mixed Breed,IM-0015-0001-2533.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2533.png
+IM-0015-0001-2546.dcm,Tiffy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-2546.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2546.png
+IM-0015-0001-2578.dcm,Edgar,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Edgar_Dog_Mixed Breed,IM-0015-0001-2578.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2578.png
+IM-0015-0001-2587.dcm,Riccardo,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Riccardo_Dog_Mixed Breed,IM-0015-0001-2587.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2587.png
+IM-0015-0001-2590.dcm,Tiffy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Tiffy_Dog_Mixed Breed,IM-0015-0001-2590.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2590.png
+IM-0015-0001-2616.dcm,Sansonje,Maine Coon,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Sansonje_Cat_Maine Coon,IM-0015-0001-2616.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-2616.png
+IM-0015-0001-2618.dcm,Miciaz,European Shorthair,Cat,LL,correct,no_finding,total_body,Feline No Findings,Miciaz_Cat_European Shorthair,IM-0015-0001-2618.png,Processed_Dataset\Feline No Findings\IM-0015-0001-2618.png
+IM-0015-0001-2635.dcm,Fendy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Fendy_Dog_Mixed Breed,IM-0015-0001-2635.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2635.png
+IM-0015-0001-2727.dcm,Omer,Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Omer_Dog_Poodle,IM-0015-0001-2727.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2727.png
+IM-0015-0001-2754.dcm,Omer,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Omer_Dog_Poodle,IM-0015-0001-2754.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2754.png
+IM-0015-0001-2756.dcm,Pat,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Pat_Cat_European Shorthair,IM-0015-0001-2756.png,Processed_Dataset\Feline No Findings\IM-0015-0001-2756.png
+IM-0015-0001-2765.dcm,Penny,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,,Canine Cardiomegaly,Penny_Dog_Mixed Breed,IM-0015-0001-2765.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2765.png
+IM-0015-0001-2773.dcm,Birillo,European Shorthair,Cat,DV,correct,no_finding,total_body,Feline No Findings,Birillo_Cat_European Shorthair,IM-0015-0001-2773.png,Processed_Dataset\Feline No Findings\IM-0015-0001-2773.png
+IM-0015-0001-2781.dcm,Dago,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Dago_Dog_Mixed Breed,IM-0015-0001-2781.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2781.png
+IM-0015-0001-2791.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-2791.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2791.png
+IM-0015-0001-2811.dcm,Penny,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Penny_Dog_Mixed Breed,IM-0015-0001-2811.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2811.png
+IM-0015-0001-2830.dcm,Atos,Dogo Argentino,Dog,LL,correct,interstitial_pattern|alveolar_pattern,,Canine Alveolar Pattern,Atos_Dog_Dogo Argentino,IM-0015-0001-2830.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-2830.png
+IM-0015-0001-2832.dcm,Atos,Dogo Argentino,Dog,LL,correct,interstitial_pattern|alveolar_pattern,,Canine Alveolar Pattern,Atos_Dog_Dogo Argentino,IM-0015-0001-2832.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-2832.png
+IM-0015-0001-2839.dcm,Nike,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Nike_Dog_Mixed Breed,IM-0015-0001-2839.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2839.png
+IM-0015-0001-2853.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2853.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2853.png
+IM-0015-0001-2870.dcm,Hunter,Siberian Husky,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Hunter_Dog_Siberian Husky,IM-0015-0001-2870.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-2870.png
+IM-0015-0001-2881.dcm,Bingo,Old English Sheepdog,Dog,LL,correct,cardiomegaly|pleural_mineralization|mass,,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog,IM-0015-0001-2881.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2881.png
+IM-0015-0001-2899.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2899.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2899.png
+IM-0015-0001-2924.dcm,Bingo,Old English Sheepdog,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Bingo_Dog_Old English Sheepdog,IM-0015-0001-2924.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2924.png
+IM-0015-0001-2929.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-2929.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-2929.png
+IM-0015-0001-2981.dcm,Candy,Golden Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Candy_Dog_Golden Retriever,IM-0015-0001-2981.png,Processed_Dataset\Canine No Findings\IM-0015-0001-2981.png
+IM-0015-0001-3008.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-3008.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3008.png
+IM-0015-0001-3051.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-3051.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-3051.png
+IM-0015-0001-3055.dcm,Gedeone,Mixed Breed,Cat,DV,correct,alveolar_pattern|pleural_effusion,,Feline Alveolar Pattern,Gedeone_Cat_Mixed Breed,IM-0015-0001-3055.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-3055.png
+IM-0015-0001-3065.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-3065.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-3065.png
+IM-0015-0001-3088.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-3088.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3088.png
+IM-0015-0001-3090.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-3090.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3090.png
+IM-0015-0001-3147.dcm,Blu,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair,IM-0015-0001-3147.png,Processed_Dataset\Feline No Findings\IM-0015-0001-3147.png
+IM-0015-0001-3170.dcm,Cocco,Maltese,Dog,LL,correct,no_finding,,Canine No Findings,Cocco_Dog_Maltese,IM-0015-0001-3170.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3170.png
+IM-0015-0001-3173.dcm,Ludovica,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Ludovica_Dog_Boxer,IM-0015-0001-3173.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3173.png
+IM-0015-0001-3187.dcm,Clarabella,Bernese Mountain Dog,Dog,LL,correct,no_finding,,Canine No Findings,Clarabella_Dog_Bernese Mountain Dog,IM-0015-0001-3187.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3187.png
+IM-0015-0001-3189.dcm,Blade,German Shepherd,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Blade_Dog_German Shepherd,IM-0015-0001-3189.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3189.png
+IM-0015-0001-3199.dcm,Ludovica,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ludovica_Dog_Boxer,IM-0015-0001-3199.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3199.png
+IM-0015-0001-3207.dcm,Sciretta,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Sciretta_Dog_Mixed Breed,IM-0015-0001-3207.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3207.png
+IM-0015-0001-3211.dcm,Wolf,Golden Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Wolf_Dog_Golden Retriever,IM-0015-0001-3211.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3211.png
+IM-0015-0001-3213.dcm,Spank,Labrador Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Spank_Dog_Labrador Retriever,IM-0015-0001-3213.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3213.png
+IM-0015-0001-3214.dcm,Cocco,Maltese,Dog,DV,correct,no_finding,,Canine No Findings,Cocco_Dog_Maltese,IM-0015-0001-3214.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3214.png
+IM-0015-0001-3229.dcm,Sciretta,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Sciretta_Dog_Mixed Breed,IM-0015-0001-3229.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3229.png
+IM-0015-0001-3234.dcm,Blade,German Shepherd,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Blade_Dog_German Shepherd,IM-0015-0001-3234.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3234.png
+IM-0015-0001-3294.dcm,Nan√†,Pointer,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Nan√†_Dog_Pointer,IM-0015-0001-3294.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-3294.png
+IM-0015-0001-3316.dcm,Nan√†,Pointer,Dog,DV,correct,no_finding,,Canine No Findings,Nan√†_Dog_Pointer,IM-0015-0001-3316.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3316.png
+IM-0015-0001-3331.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-3331.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3331.png
+IM-0015-0001-3346.dcm,Billy,Mixed Breed,Dog,DV,correct,foreign_body|cardiomegaly,,Canine Cardiomegaly,Billy_Dog_Mixed Breed,IM-0015-0001-3346.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3346.png
+IM-0015-0001-3349.dcm,Billy,Mixed Breed,Dog,DV,correct,cardiomegaly|foreign_body,,Canine Cardiomegaly,Billy_Dog_Mixed Breed,IM-0015-0001-3349.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3349.png
+IM-0015-0001-3377.dcm,Asia,Mixed Breed,Dog,LL,correct,foreign_body|no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-3377.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3377.png
+IM-0015-0001-3402.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-3402.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-3402.png
+IM-0015-0001-3435.dcm,Pippo,Dachshund,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Pippo_Dog_Dachshund,IM-0015-0001-3435.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3435.png
+IM-0015-0001-3468.dcm,Chicca,Mixed Breed,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-3468.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-3468.png
+IM-0015-0001-3470.dcm,Lord Byron,Black Russian Terrier,Dog,DV,correct,no_finding,spinal_fracture,Canine No Findings,Lord Byron_Dog_Black Russian Terrier,IM-0015-0001-3470.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3470.png
+IM-0015-0001-3472.dcm,Billy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed,IM-0015-0001-3472.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3472.png
+IM-0015-0001-3477.dcm,Pippo,Dachshund,Dog,DV,correct,no_finding,,Canine No Findings,Pippo_Dog_Dachshund,IM-0015-0001-3477.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3477.png
+IM-0015-0001-3497.dcm,Billy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed,IM-0015-0001-3497.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3497.png
+IM-0015-0001-3508.dcm,Ewok,Rottweiler,Dog,LL,correct,no_finding,,Canine No Findings,Ewok_Dog_Rottweiler,IM-0015-0001-3508.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3508.png
+IM-0015-0001-3535.dcm,Speedy,Whippet,Dog,DV,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-3535.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3535.png
+IM-0015-0001-3544.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-3544.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3544.png
+IM-0015-0001-3560.dcm,Crio,Newfoundland,Dog,LL,correct,no_finding,,Canine No Findings,Crio_Dog_Newfoundland,IM-0015-0001-3560.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3560.png
+IM-0015-0001-3585.dcm,Speedy,Whippet,Dog,DV,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-3585.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3585.png
+IM-0015-0001-3598.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-3598.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3598.png
+IM-0015-0001-3625.dcm,Lulu',Jack Russell Terrier,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier,IM-0015-0001-3625.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3625.png
+IM-0015-0001-3639.dcm,Donovan,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Donovan_Dog_Irish Setter,IM-0015-0001-3639.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3639.png
+IM-0015-0001-3679.dcm,Donovan,Irish Setter,Dog,DV,correct,no_finding,,Canine No Findings,Donovan_Dog_Irish Setter,IM-0015-0001-3679.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3679.png
+IM-0015-0001-3710.dcm,Lulu',Jack Russell Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Lulu'_Dog_Jack Russell Terrier,IM-0015-0001-3710.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3710.png
+IM-0015-0001-3744.dcm,Ulisse,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ulisse_Dog_Boxer,IM-0015-0001-3744.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3744.png
+IM-0015-0001-3747.dcm,Ulisse,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Ulisse_Dog_Boxer,IM-0015-0001-3747.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3747.png
+IM-0015-0001-3800.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-3800.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3800.png
+IM-0015-0001-3807.dcm,Fragolino,Maltese,Dog,LL,correct,no_finding,,Canine No Findings,Fragolino_Dog_Maltese,IM-0015-0001-3807.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3807.png
+IM-0015-0001-3812.dcm,Natty,Mixed Breed,Dog,LL,correct,no_finding,total_body,Canine No Findings,Natty_Dog_Mixed Breed,IM-0015-0001-3812.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3812.png
+IM-0015-0001-3844.dcm,Bea,English Setter,Dog,LL,correct,no_finding,,Canine No Findings,Bea_Dog_English Setter,IM-0015-0001-3844.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3844.png
+IM-0015-0001-3852.dcm,Leo,Golden Retriever,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Leo_Dog_Golden Retriever,IM-0015-0001-3852.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3852.png
+IM-0015-0001-3878.dcm,Havana,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Havana_Dog_Unknown,IM-0015-0001-3878.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3878.png
+IM-0015-0001-3886.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-3886.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3886.png
+IM-0015-0001-3890.dcm,Billy,Mixed Breed,Dog,LL,correct,cardiomegaly|mass,,Canine Cardiomegaly,Billy_Dog_Mixed Breed,IM-0015-0001-3890.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3890.png
+IM-0015-0001-3897.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-3897.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3897.png
+IM-0015-0001-3898.dcm,Twister,Flat-Coated Retriever,Dog,LL,correct,no_finding,,Canine No Findings,Twister_Dog_Flat-Coated Retriever,IM-0015-0001-3898.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3898.png
+IM-0015-0001-3906.dcm,Cooper,French Bulldog,Dog,LL,correct,no_finding,,Canine No Findings,Cooper_Dog_French Bulldog,IM-0015-0001-3906.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3906.png
+IM-0015-0001-3907.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter,IM-0015-0001-3907.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3907.png
+IM-0015-0001-3908.dcm,Happy,Standard Schnauzer,Dog,LL,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,Happy_Dog_Standard Schnauzer,IM-0015-0001-3908.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-3908.png
+IM-0015-0001-3914.dcm,Scock,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Scock_Dog_Mixed Breed,IM-0015-0001-3914.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3914.png
+IM-0015-0001-3918.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter,IM-0015-0001-3918.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3918.png
+IM-0015-0001-3920.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-3920.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3920.png
+IM-0015-0001-3947.dcm,Karma,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Karma_Dog_Mixed Breed,IM-0015-0001-3947.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3947.png
+IM-0015-0001-3962.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-3962.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3962.png
+IM-0015-0001-3969.dcm,Matilda,Labrador Retriever,Cat,LL,correct,cardiomegaly|pleural_effusion,,Feline Cardiomegaly,Matilda_Cat_Labrador Retriever,IM-0015-0001-3969.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-3969.png
+IM-0015-0001-3981.dcm,Gig√¨,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed,IM-0015-0001-3981.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3981.png
+IM-0015-0001-3982.dcm,B-Fifty Degli Ant. Mulini,Bernese Mountain Dog,Dog,LL,correct,no_finding,,Canine No Findings,B-Fifty Degli Ant. Mulini_Dog_Bernese Mountain Dog,IM-0015-0001-3982.png,Processed_Dataset\Canine No Findings\IM-0015-0001-3982.png
+IM-0015-0001-4010.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter,IM-0015-0001-4010.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4010.png
+IM-0015-0001-4025.dcm,Didi,Yorkshire Terrier,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Didi_Dog_Yorkshire Terrier,IM-0015-0001-4025.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4025.png
+IM-0015-0001-4049.dcm,Pinko,Bodeguero Ratomero Andaluz,Dog,LL,correct,no_finding,,Canine No Findings,Pinko_Dog_Bodeguero Ratomero Andaluz,IM-0015-0001-4049.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4049.png
+IM-0015-0001-4062.dcm,Tobi,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Tobi_Dog_Unknown,IM-0015-0001-4062.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4062.png
+IM-0015-0001-4104.dcm,Elettra,Italian Hound,Dog,LL,correct,no_finding,,Canine No Findings,Elettra_Dog_Italian Hound,IM-0015-0001-4104.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4104.png
+IM-0015-0001-4119.dcm,Godzilla,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Godzilla_Dog_Mixed Breed,IM-0015-0001-4119.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4119.png
+IM-0015-0001-4120.dcm,Agnes,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Agnes_Dog_Irish Setter,IM-0015-0001-4120.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4120.png
+IM-0015-0001-4144.dcm,Laika,German Shepherd,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Laika_Dog_German Shepherd,IM-0015-0001-4144.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-4144.png
+IM-0015-0001-4146.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,moderate,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-4146.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4146.png
+IM-0015-0001-4159.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-4159.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4159.png
+IM-0015-0001-4163.dcm,Chicca,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-4163.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4163.png
+IM-0015-0001-4164.dcm,Godzilla,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Godzilla_Dog_Mixed Breed,IM-0015-0001-4164.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4164.png
+IM-0015-0001-4242.dcm,Pippo,Dachshund,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Pippo_Dog_Dachshund,IM-0015-0001-4242.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4242.png
+IM-0015-0001-4256.dcm,Freddy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Freddy_Dog_Mixed Breed,IM-0015-0001-4256.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4256.png
+IM-0015-0001-4265.dcm,Alex,Pinscher,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Alex_Dog_Pinscher,IM-0015-0001-4265.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4265.png
+IM-0015-0001-4276.dcm,Lea,Unknown,Dog,LL,correct,no_finding,total_body,Canine No Findings,Lea_Dog_Unknown,IM-0015-0001-4276.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4276.png
+IM-0015-0001-4280.dcm,Kira,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Kira_Dog_Unknown,IM-0015-0001-4280.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4280.png
+IM-0015-0001-4286.dcm,Isy,Border Collie,Dog,LL,correct,no_finding,,Canine No Findings,Isy_Dog_Border Collie,IM-0015-0001-4286.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4286.png
+IM-0015-0001-4334.dcm,Elettra,Italian Hound,Dog,LL,correct,no_finding,,Canine No Findings,Elettra_Dog_Italian Hound,IM-0015-0001-4334.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4334.png
+IM-0015-0001-4347.dcm,Didi,Yorkshire Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Didi_Dog_Yorkshire Terrier,IM-0015-0001-4347.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4347.png
+IM-0015-0001-4418.dcm,Birba,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-4418.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4418.png
+IM-0015-0001-4420.dcm,Amos,Mixed Breed,Dog,LL,correct,no_finding,total_body,Canine No Findings,Amos_Dog_Mixed Breed,IM-0015-0001-4420.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4420.png
+IM-0015-0001-4446.dcm,Lilly,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Lilly_Dog_Unknown,IM-0015-0001-4446.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4446.png
+IM-0015-0001-4453.dcm,Billy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed,IM-0015-0001-4453.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4453.png
+IM-0015-0001-4456.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-4456.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4456.png
+IM-0015-0001-4464.dcm,Ricky,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle,IM-0015-0001-4464.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4464.png
+IM-0015-0001-4479.dcm,Diana,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Diana_Dog_Mixed Breed,IM-0015-0001-4479.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4479.png
+IM-0015-0001-4489.dcm,Speedy,Whippet,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet,IM-0015-0001-4489.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4489.png
+IM-0015-0001-4503.dcm,Charly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Charly_Dog_Mixed Breed,IM-0015-0001-4503.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4503.png
+IM-0015-0001-4507.dcm,Max,German Shepherd,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Max_Dog_German Shepherd,IM-0015-0001-4507.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4507.png
+IM-0015-0001-4518.dcm,Benito,Beagle,Dog,LL,correct,no_finding,,Canine No Findings,Benito_Dog_Beagle,IM-0015-0001-4518.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4518.png
+IM-0015-0001-4529.dcm,Harley,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Harley_Dog_Unknown,IM-0015-0001-4529.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4529.png
+IM-0015-0001-4530.dcm,Ronnie,Golden Retriever,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ronnie_Dog_Golden Retriever,IM-0015-0001-4530.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4530.png
+IM-0015-0001-4539.dcm,Bilo,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Bilo_Dog_Mixed Breed,IM-0015-0001-4539.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4539.png
+IM-0015-0001-4554.dcm,Briciola,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Briciola_Dog_Poodle,IM-0015-0001-4554.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4554.png
+IM-0015-0001-4573.dcm,Blade,German Shepherd,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Blade_Dog_German Shepherd,IM-0015-0001-4573.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4573.png
+IM-0015-0001-4580.dcm,Charly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Charly_Dog_Mixed Breed,IM-0015-0001-4580.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4580.png
+IM-0015-0001-4585.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-4585.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4585.png
+IM-0015-0001-4590.dcm,Billy,Unknown,Dog,LL,correct,no_finding,total_body,Canine No Findings,Billy_Dog_Unknown,IM-0015-0001-4590.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4590.png
+IM-0015-0001-4632.dcm,Sansone,Shih Tzu,Dog,LL,correct,no_finding,,Canine No Findings,Sansone_Dog_Shih Tzu,IM-0015-0001-4632.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4632.png
+IM-0015-0001-4657.dcm,Penny,Mixed Breed,Dog,LL,correct,cardiomegaly|bronchial_pattern,moderate,Canine Cardiomegaly,Penny_Dog_Mixed Breed,IM-0015-0001-4657.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4657.png
+IM-0015-0001-4669.dcm,Dania,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Dania_Dog_Mixed Breed,IM-0015-0001-4669.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4669.png
+IM-0015-0001-4697.dcm,Jes,Cocker Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Jes_Dog_Cocker Spaniel,IM-0015-0001-4697.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4697.png
+IM-0015-0001-4709.dcm,Jes,Cocker Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Jes_Dog_Cocker Spaniel,IM-0015-0001-4709.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4709.png
+IM-0015-0001-4712.dcm,Charly,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Charly_Dog_Mixed Breed,IM-0015-0001-4712.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4712.png
+IM-0015-0001-4733.dcm,Virgola,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel,IM-0015-0001-4733.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4733.png
+IM-0015-0001-4735.dcm,Boogie,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Boogie_Dog_Mixed Breed,IM-0015-0001-4735.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4735.png
+IM-0015-0001-4753.dcm,Virgola,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel,IM-0015-0001-4753.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4753.png
+IM-0015-0001-4762.dcm,Lapo,Beagle,Dog,LL,correct,no_finding,,Canine No Findings,Lapo_Dog_Beagle,IM-0015-0001-4762.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4762.png
+IM-0015-0001-4767.dcm,Boogie,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Boogie_Dog_Mixed Breed,IM-0015-0001-4767.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4767.png
+IM-0015-0001-4768.dcm,Ettore,French Bulldog,Dog,LL,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog,IM-0015-0001-4768.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4768.png
+IM-0015-0001-4774.dcm,Ricky,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle,IM-0015-0001-4774.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4774.png
+IM-0015-0001-4790.dcm,262182,American Staffordshire Terrier,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,262182_Dog_American Staffordshire Terrier,IM-0015-0001-4790.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-4790.png
+IM-0015-0001-4791.dcm,Michelle,Great Dane,Dog,LL,correct,cardiomegaly,check,Canine Cardiomegaly,Michelle_Dog_Great Dane,IM-0015-0001-4791.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4791.png
+IM-0015-0001-4801.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-4801.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4801.png
+IM-0015-0001-4809.dcm,Virgola,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel,IM-0015-0001-4809.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4809.png
+IM-0015-0001-4824.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-4824.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4824.png
+IM-0015-0001-4848.dcm,Kofy,Boxer,Dog,LL,correct,no_finding,spondylarthrosis,Canine No Findings,Kofy_Dog_Boxer,IM-0015-0001-4848.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4848.png
+IM-0015-0001-4853.dcm,Ricky,Poodle,Dog,LL,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle,IM-0015-0001-4853.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4853.png
+IM-0015-0001-4854.dcm,Emi,Australian Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,Emi_Dog_Australian Shepherd,IM-0015-0001-4854.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4854.png
+IM-0015-0001-4865.dcm,Maty,Dachshund,Dog,LL,correct,no_finding,,Canine No Findings,Maty_Dog_Dachshund,IM-0015-0001-4865.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4865.png
+IM-0015-0001-4866.dcm,Shary,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Shary_Dog_Mixed Breed,IM-0015-0001-4866.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4866.png
+IM-0015-0001-4872.dcm,Smarty,Maltese,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Smarty_Dog_Maltese,IM-0015-0001-4872.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4872.png
+IM-0015-0001-4878.dcm,Kira,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer,IM-0015-0001-4878.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4878.png
+IM-0015-0001-4897.dcm,Spank,Mixed Breed,Dog,LL,correct,alveolar_pattern|bronchial_pattern,severe,Canine Alveolar Pattern,Spank_Dog_Mixed Breed,IM-0015-0001-4897.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-4897.png
+IM-0015-0001-4913.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-4913.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4913.png
+IM-0015-0001-4931.dcm,Inti,Dogo Argentino,Dog,LL,correct,no_finding,,Canine No Findings,Inti_Dog_Dogo Argentino,IM-0015-0001-4931.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4931.png
+IM-0015-0001-4942.dcm,13982,Brittany Spaniel,Dog,LL,correct,no_finding,check,Canine No Findings,13982_Dog_Brittany Spaniel,IM-0015-0001-4942.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4942.png
+IM-0015-0001-4955.dcm,14153,Italian Hound,Dog,LL,correct,no_finding,,Canine No Findings,14153_Dog_Italian Hound,IM-0015-0001-4955.png,Processed_Dataset\Canine No Findings\IM-0015-0001-4955.png
+IM-0015-0001-4979.dcm,Gig√¨,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Gig√¨_Dog_Mixed Breed,IM-0015-0001-4979.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-4979.png
+IM-0015-0001-5043.dcm,Gig√¨,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed,IM-0015-0001-5043.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5043.png
+IM-0015-0001-5065.dcm,Billy,Unknown,Dog,LL,correct,no_finding|foreign_body,,Canine No Findings,Billy_Dog_Unknown,IM-0015-0001-5065.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5065.png
+IM-0015-0001-5105.dcm,Fly,Boxer,Dog,LL,correct,no_finding,,Canine No Findings,Fly_Dog_Boxer,IM-0015-0001-5105.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5105.png
+IM-0015-0001-5107.dcm,Michelle,Great Dane,Dog,LL,correct,mass|cardiomegaly,,Canine Cardiomegaly,Michelle_Dog_Great Dane,IM-0015-0001-5107.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5107.png
+IM-0015-0001-5113.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-5113.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5113.png
+IM-0015-0001-5114.dcm,Chicca,Mixed Breed,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-5114.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5114.png
+IM-0015-0001-5137.dcm,Speedy,Whippet,Dog,LL,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-5137.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5137.png
+IM-0015-0001-5189.dcm,Berni,Mixed Breed,Dog,DV,correct,cardiomegaly|foreign_body,,Canine Cardiomegaly,Berni_Dog_Mixed Breed,IM-0015-0001-5189.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5189.png
+IM-0015-0001-5201.dcm,Gig√¨,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed,IM-0015-0001-5201.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5201.png
+IM-0015-0001-5257.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-5257.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5257.png
+IM-0015-0001-5272.dcm,Happy,Standard Schnauzer,Dog,DV,correct,no_finding,,Canine No Findings,Happy_Dog_Standard Schnauzer,IM-0015-0001-5272.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5272.png
+IM-0015-0001-5278.dcm,Karma,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Karma_Dog_Mixed Breed,IM-0015-0001-5278.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5278.png
+IM-0015-0001-5287.dcm,Ugo,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Ugo_Dog_Boxer,IM-0015-0001-5287.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5287.png
+IM-0015-0001-5331.dcm,Birba,Unknown,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Birba_Dog_Unknown,IM-0015-0001-5331.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5331.png
+IM-0015-0001-5347.dcm,Cooper,French Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,Cooper_Dog_French Bulldog,IM-0015-0001-5347.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5347.png
+IM-0015-0001-5352.dcm,Birba,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-5352.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5352.png
+IM-0015-0001-5358.dcm,Pinko,Bodeguero Ratomero Andaluz,Dog,DV,correct,no_finding,,Canine No Findings,Pinko_Dog_Bodeguero Ratomero Andaluz,IM-0015-0001-5358.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5358.png
+IM-0015-0001-5363.dcm,Billy,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Billy_Dog_Mixed Breed,IM-0015-0001-5363.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5363.png
+IM-0015-0001-5374.dcm,Havana,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Havana_Dog_Unknown,IM-0015-0001-5374.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5374.png
+IM-0015-0001-5381.dcm,Freddy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Freddy_Dog_Mixed Breed,IM-0015-0001-5381.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5381.png
+IM-0015-0001-5391.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-5391.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5391.png
+IM-0015-0001-5395.dcm,Natty,Mixed Breed,Dog,DV,correct,no_finding,total_body,Canine No Findings,Natty_Dog_Mixed Breed,IM-0015-0001-5395.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5395.png
+IM-0015-0001-5409.dcm,Bea,English Setter,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Bea_Dog_English Setter,IM-0015-0001-5409.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5409.png
+IM-0015-0001-5414.dcm,Happy,Standard Schnauzer,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Happy_Dog_Standard Schnauzer,IM-0015-0001-5414.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-5414.png
+IM-0015-0001-5431.dcm,3802600431196401 Pseudoar,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,3802600431196401 Pseudoar_Dog_Mixed Breed,IM-0015-0001-5431.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5431.png
+IM-0015-0001-5529.dcm,Kira,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Unknown,IM-0015-0001-5529.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5529.png
+IM-0015-0001-5540.dcm,Didi,Yorkshire Terrier,Dog,DV,correct,no_finding,total_body,Canine No Findings,Didi_Dog_Yorkshire Terrier,IM-0015-0001-5540.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5540.png
+IM-0015-0001-5557.dcm,Barret,Jack Russell Terrier,Dog,DV,correct,no_finding,,Canine No Findings,Barret_Dog_Jack Russell Terrier,IM-0015-0001-5557.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5557.png
+IM-0015-0001-5565.dcm,380260042149446,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,380260042149446_Dog_Mixed Breed,IM-0015-0001-5565.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5565.png
+IM-0015-0001-5568.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-5568.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-5568.png
+IM-0015-0001-5591.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-5591.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5591.png
+IM-0015-0001-5596.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-5596.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-5596.png
+IM-0015-0001-5600.dcm,Chicca,Mixed Breed,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Chicca_Dog_Mixed Breed,IM-0015-0001-5600.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-5600.png
+IM-0015-0001-5602.dcm,Isy,Border Collie,Dog,DV,correct,no_finding,,Canine No Findings,Isy_Dog_Border Collie,IM-0015-0001-5602.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5602.png
+IM-0015-0001-5641.dcm,Elettra,Italian Hound,Dog,DV,correct,no_finding,,Canine No Findings,Elettra_Dog_Italian Hound,IM-0015-0001-5641.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5641.png
+IM-0015-0001-5712.dcm,Billy,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Billy_Dog_Mixed Breed,IM-0015-0001-5712.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5712.png
+IM-0015-0001-5727.dcm,Speedy,Whippet,Dog,DV,correct,no_finding,,Canine No Findings,Speedy_Dog_Whippet,IM-0015-0001-5727.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5727.png
+IM-0015-0001-5734.dcm,Briciola,Poodle,Dog,DV,correct,no_finding,mild,Canine No Findings,Briciola_Dog_Poodle,IM-0015-0001-5734.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5734.png
+IM-0015-0001-5739.dcm,Speedy,Whippet,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet,IM-0015-0001-5739.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5739.png
+IM-0015-0001-5742.dcm,Amos,Mixed Breed,Dog,DV,correct,cardiomegaly,total_body,Canine Cardiomegaly,Amos_Dog_Mixed Breed,IM-0015-0001-5742.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5742.png
+IM-0015-0001-5762.dcm,Buch,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Buch_Dog_Mixed Breed,IM-0015-0001-5762.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5762.png
+IM-0015-0001-5776.dcm,Harley,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Harley_Dog_Unknown,IM-0015-0001-5776.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5776.png
+IM-0015-0001-5781.dcm,Chicca,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Chicca_Dog_Mixed Breed,IM-0015-0001-5781.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5781.png
+IM-0015-0001-5796.dcm,Benito,Beagle,Dog,DV,correct,no_finding,,Canine No Findings,Benito_Dog_Beagle,IM-0015-0001-5796.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5796.png
+IM-0015-0001-5797.dcm,Lilly,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Lilly_Dog_Unknown,IM-0015-0001-5797.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5797.png
+IM-0015-0001-5798.dcm,Billy,Unknown,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Billy_Dog_Unknown,IM-0015-0001-5798.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5798.png
+IM-0015-0001-5813.dcm,Ronnie,Golden Retriever,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Ronnie_Dog_Golden Retriever,IM-0015-0001-5813.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5813.png
+IM-0015-0001-5818.dcm,Ricky,Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle,IM-0015-0001-5818.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5818.png
+IM-0015-0001-5825.dcm,Diana,Mixed Breed,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Diana_Dog_Mixed Breed,IM-0015-0001-5825.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5825.png
+IM-0015-0001-5834.dcm,Dora,Labrador Retriever,Dog,DV,correct,no_finding,,Canine No Findings,Dora_Dog_Labrador Retriever,IM-0015-0001-5834.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5834.png
+IM-0015-0001-5849.dcm,Charly,Mixed Breed,Dog,DV,correct,cardiomegaly|foreign_body,,Canine Cardiomegaly,Charly_Dog_Mixed Breed,IM-0015-0001-5849.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5849.png
+IM-0015-0001-5855.dcm,Birba,Unknown,Dog,DV,correct,no_finding,,Canine No Findings,Birba_Dog_Unknown,IM-0015-0001-5855.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5855.png
+IM-0015-0001-5881.dcm,Penny,Mixed Breed,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Penny_Dog_Mixed Breed,IM-0015-0001-5881.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-5881.png
+IM-0015-0001-5885.dcm,Smarty,Maltese,Dog,DV,correct,no_finding,,Canine No Findings,Smarty_Dog_Maltese,IM-0015-0001-5885.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5885.png
+IM-0015-0001-5888.dcm,Michelle,Great Dane,Dog,DV,correct,no_finding|foreign_body,,Canine No Findings,Michelle_Dog_Great Dane,IM-0015-0001-5888.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5888.png
+IM-0015-0001-5908.dcm,Ricky,Poodle,Dog,DV,correct,no_finding,,Canine No Findings,Ricky_Dog_Poodle,IM-0015-0001-5908.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5908.png
+IM-0015-0001-5931.dcm,Kofy,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kofy_Dog_Boxer,IM-0015-0001-5931.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5931.png
+IM-0015-0001-5971.dcm,Spank,Mixed Breed,Dog,DV,correct,alveolar_pattern|bronchial_pattern,severe,Canine Alveolar Pattern,Spank_Dog_Mixed Breed,IM-0015-0001-5971.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-5971.png
+IM-0015-0001-5977.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-5977.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5977.png
+IM-0015-0001-5996.dcm,Dania,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Dania_Dog_Mixed Breed,IM-0015-0001-5996.png,Processed_Dataset\Canine No Findings\IM-0015-0001-5996.png
+IM-0015-0001-6002.dcm,Jes,Cocker Spaniel,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Jes_Dog_Cocker Spaniel,IM-0015-0001-6002.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-6002.png
+IM-0015-0001-6017.dcm,Lapo,Beagle,Dog,DV,correct,no_finding,,Canine No Findings,Lapo_Dog_Beagle,IM-0015-0001-6017.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6017.png
+IM-0015-0001-6044.dcm,Spank,Mixed Breed,Dog,DV,correct,alveolar_pattern|bronchial_pattern,severe,Canine Alveolar Pattern,Spank_Dog_Mixed Breed,IM-0015-0001-6044.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-6044.png
+IM-0015-0001-6046.dcm,Maty,Dachshund,Dog,DV,correct,cardiomegaly,check,Canine Cardiomegaly,Maty_Dog_Dachshund,IM-0015-0001-6046.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-6046.png
+IM-0015-0001-6056.dcm,Asia,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0015-0001-6056.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6056.png
+IM-0015-0001-6073.dcm,Boogie,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Boogie_Dog_Mixed Breed,IM-0015-0001-6073.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6073.png
+IM-0015-0001-6077.dcm,Ettore,French Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog,IM-0015-0001-6077.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6077.png
+IM-0015-0001-6083.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer,IM-0015-0001-6083.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6083.png
+IM-0015-0001-6094.dcm,Gig√¨,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Gig√¨_Dog_Mixed Breed,IM-0015-0001-6094.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6094.png
+IM-0015-0001-6095.dcm,Billy,Unknown,Dog,DV,correct,no_finding|foreign_body,,Canine No Findings,Billy_Dog_Unknown,IM-0015-0001-6095.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6095.png
+IM-0015-0001-6126.dcm,Virgola,Cavalier King Charles Spaniel,Dog,DV,correct,no_finding,,Canine No Findings,Virgola_Dog_Cavalier King Charles Spaniel,IM-0015-0001-6126.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6126.png
+IM-0015-0001-6138.dcm,Billy,Unknown,Dog,DV,correct,alveolar_pattern|mass|foreign_body,,Canine Alveolar Pattern,Billy_Dog_Unknown,IM-0015-0001-6138.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-6138.png
+IM-0015-0001-6141.dcm,Billy,Unknown,Dog,DV,correct,no_finding|foreign_body,,Canine No Findings,Billy_Dog_Unknown,IM-0015-0001-6141.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6141.png
+IM-0015-0001-6157.dcm,14153,Italian Hound,Dog,DV,correct,no_finding,,Canine No Findings,14153_Dog_Italian Hound,IM-0015-0001-6157.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6157.png
+IM-0015-0001-6212.dcm,13982,Brittany Spaniel,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,13982_Dog_Brittany Spaniel,IM-0015-0001-6212.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-6212.png
+IM-0015-0001-6239.dcm,Diana,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Diana_Dog_Mixed Breed,IM-0015-0001-6239.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6239.png
+IM-0015-0001-6263.dcm,Fly,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Fly_Dog_Boxer,IM-0015-0001-6263.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6263.png
+IM-0015-0001-6267.dcm,Speedy,Whippet,Dog,DV,correct,cardiomegaly,,Canine Cardiomegaly,Speedy_Dog_Whippet,IM-0015-0001-6267.png,Processed_Dataset\Canine Cardiomegaly\IM-0015-0001-6267.png
+IM-0015-0001-6268.dcm,Michelle,Great Dane,Dog,DV,correct,alveolar_pattern,,Canine Alveolar Pattern,Michelle_Dog_Great Dane,IM-0015-0001-6268.png,Processed_Dataset\Canine Alveolar Pattern\IM-0015-0001-6268.png
+IM-0015-0001-6271.dcm,Chicca,Mixed Breed,Dog,DV,correct,no_finding,,Canine No Findings,Chicca_Dog_Mixed Breed,IM-0015-0001-6271.png,Processed_Dataset\Canine No Findings\IM-0015-0001-6271.png
+IM-0015-0001-6292.dcm,n.a.,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,n.a._Cat_European Shorthair,IM-0015-0001-6292.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-6292.png
+IM-0015-0001-6310.dcm,Blu,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Blu_Cat_European Shorthair,IM-0015-0001-6310.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6310.png
+IM-0015-0001-6312.dcm,Gonzalo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Gonzalo_Cat_European Shorthair,IM-0015-0001-6312.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6312.png
+IM-0015-0001-6314.dcm,Spriz,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Spriz_Cat_European Shorthair,IM-0015-0001-6314.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6314.png
+IM-0015-0001-6366.dcm,Sibilla,Unknown,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Sibilla_Cat_Unknown,IM-0015-0001-6366.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-6366.png
+IM-0015-0001-6374.dcm,Gnacchi,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Gnacchi_Cat_European Shorthair,IM-0015-0001-6374.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6374.png
+IM-0015-0001-6382.dcm,Zela,Tortoiseshell Cat,Cat,LL,correct,no_finding,,Feline No Findings,Zela_Cat_Tortoiseshell Cat,IM-0015-0001-6382.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6382.png
+IM-0015-0001-6468.dcm,Fumo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Fumo_Cat_European Shorthair,IM-0015-0001-6468.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6468.png
+IM-0015-0001-6488.dcm,Red,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Red_Cat_European Shorthair,IM-0015-0001-6488.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-6488.png
+IM-0015-0001-6504.dcm,Giulio,European Shorthair,Cat,LL,correct,pleural_effusion|interstitial_pattern|alveolar_pattern,,Feline Alveolar Pattern,Giulio_Cat_European Shorthair,IM-0015-0001-6504.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-6504.png
+IM-0015-0001-6412.dcm,Saffo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Saffo_Cat_European Shorthair,IM-0015-0001-6412.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6412.png
+IM-0015-0001-6548.dcm,Tilikum,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Tilikum_Cat_European Shorthair,IM-0015-0001-6548.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6548.png
+IM-0015-0001-6568.dcm,gatto Grigio Tigrato,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,gatto Grigio Tigrato_Cat_Unknown,IM-0015-0001-6568.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6568.png
+IM-0015-0001-6574.dcm,Pippo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Pippo_Cat_European Shorthair,IM-0015-0001-6574.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6574.png
+IM-0015-0001-6611.dcm,Nerino,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Nerino_Cat_European Shorthair,IM-0015-0001-6611.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6611.png
+IM-0015-0001-6624.dcm,Aslan,Unknown,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Aslan_Cat_Unknown,IM-0015-0001-6624.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-6624.png
+IM-0015-0001-6726.dcm,Arturo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Arturo_Cat_European Shorthair,IM-0015-0001-6726.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6726.png
+IM-0015-0001-6727.dcm,Perla,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Perla_Cat_European Shorthair,IM-0015-0001-6727.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-6727.png
+IM-0015-0001-6737.dcm,Giulio,European Shorthair,Cat,DV,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Giulio_Cat_European Shorthair,IM-0015-0001-6737.png,Processed_Dataset\Feline Alveolar Pattern\IM-0015-0001-6737.png
+IM-0015-0001-6898.dcm,Spriz,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Spriz_Cat_European Shorthair,IM-0015-0001-6898.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6898.png
+IM-0015-0001-6941.dcm,Gonzalo,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Gonzalo_Cat_European Shorthair,IM-0015-0001-6941.png,Processed_Dataset\Feline No Findings\IM-0015-0001-6941.png
+IM-0015-0001-7013.dcm,Nero,European Shorthair,Cat,DV,correct,cardiomegaly|interstitial_pattern,,Feline Cardiomegaly,Nero_Cat_European Shorthair,IM-0015-0001-7013.png,Processed_Dataset\Feline Cardiomegaly\IM-0015-0001-7013.png
+IM-0015-0001-7042.dcm,Nerino,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Nerino_Cat_European Shorthair,IM-0015-0001-7042.png,Processed_Dataset\Feline No Findings\IM-0015-0001-7042.png
+IMG-0004-0002.dcm,Agata,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair,IMG-0004-0002.png,Processed_Dataset\Feline No Findings\IMG-0004-0002.png
+IMG-0164-0002.dcm,Chanel,Barbet,Dog,DV,correct,no_finding,,Canine No Findings,Chanel_Dog_Barbet,IMG-0164-0002.png,Processed_Dataset\Canine No Findings\IMG-0164-0002.png
+IMG-0348-0002.dcm,Fin,European Shorthair,Cat,DV,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair,IMG-0348-0002.png,Processed_Dataset\Feline Alveolar Pattern\IMG-0348-0002.png
+IMG-0350-0002.dcm,Fin,European Shorthair,Cat,DV,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair,IMG-0350-0002.png,Processed_Dataset\Feline Alveolar Pattern\IMG-0350-0002.png
+IMG-0527-0001.dcm,Kira,Boxer,Dog,DV,correct,no_finding,,Canine No Findings,Kira_Dog_Boxer,IMG-0527-0001.png,Processed_Dataset\Canine No Findings\IMG-0527-0001.png
+IMG-0347-0001.dcm,Fin,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair,IMG-0347-0001.png,Processed_Dataset\Feline Alveolar Pattern\IMG-0347-0001.png
+IMG-0349-0001.dcm,Fin,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair,IMG-0349-0001.png,Processed_Dataset\Feline Alveolar Pattern\IMG-0349-0001.png
+IMG-0351-0003.dcm,Fin,European Shorthair,Cat,LL,correct,alveolar_pattern,,Feline Alveolar Pattern,Fin_Cat_European Shorthair,IMG-0351-0003.png,Processed_Dataset\Feline Alveolar Pattern\IMG-0351-0003.png
+IMG-0926-0001.dcm,Priscilla,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair,IMG-0926-0001.png,Processed_Dataset\Feline Cardiomegaly\IMG-0926-0001.png
+IMG-0964-0001.dcm,Sabik,Whippet,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Sabik_Dog_Whippet,IMG-0964-0001.png,Processed_Dataset\Canine Cardiomegaly\IMG-0964-0001.png
+IMG-0928-0004.dcm,Priscilla,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair,IMG-0928-0004.png,Processed_Dataset\Feline Cardiomegaly\IMG-0928-0004.png
+IM-0011-0001.dcm,Achille,Labrador Retriever,Dog,LL,correct,alveolar_pattern|mass,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever,IM-0011-0001.png,Processed_Dataset\Canine Alveolar Pattern\IM-0011-0001.png
+IM-0015-0001.dcm,Agata,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair,IM-0015-0001.png,Processed_Dataset\Feline No Findings\IM-0015-0001.png
+IM-0017-0001.dcm,Agata,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair,IM-0017-0001.png,Processed_Dataset\Feline No Findings\IM-0017-0001.png
+IM-0031-0001.dcm,Aku,Belgian Shepherd Malinois,Dog,LL,correct,pleural_effusion|alveolar_pattern,,Canine Alveolar Pattern,Aku_Dog_Belgian Shepherd Malinois,IM-0031-0001.png,Processed_Dataset\Canine Alveolar Pattern\IM-0031-0001.png
+IM-0036-0001.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed,IM-0036-0001.png,Processed_Dataset\Canine Alveolar Pattern\IM-0036-0001.png
+IM-0038-0001-0001.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed,IM-0038-0001-0001.png,Processed_Dataset\Canine Alveolar Pattern\IM-0038-0001-0001.png
+IM-0038-0001-0002.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed,IM-0038-0001-0002.png,Processed_Dataset\Canine Alveolar Pattern\IM-0038-0001-0002.png
+IM-0038-0001-0004.dcm,Alaska,Mixed Breed,Dog,LL,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed,IM-0038-0001-0004.png,Processed_Dataset\Canine Alveolar Pattern\IM-0038-0001-0004.png
+IM-0062-0001.dcm,Alma,Labrador Retriever,Dog,LL,correct,no_finding|pleural_mineralization,,Canine No Findings,Alma_Dog_Labrador Retriever,IM-0062-0001.png,Processed_Dataset\Canine No Findings\IM-0062-0001.png
+IM-0070-0002-0001.dcm,Alyssa,Tibetan Spaniel,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Alyssa_Dog_Tibetan Spaniel,IM-0070-0002-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-0070-0002-0001.png
+IM-0070-0002-0002.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown,IM-0070-0002-0002.png,Processed_Dataset\Canine Cardiomegaly\IM-0070-0002-0002.png
+IM-0071-0001-0001.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown,IM-0071-0001-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-0071-0001-0001.png
+IM-0073-0001.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown,IM-0073-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-0073-0001.png
+IM-0074-0002.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown,IM-0074-0002.png,Processed_Dataset\Canine Cardiomegaly\IM-0074-0002.png
+IM-0075-0003.dcm,Ambra,Unknown,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Ambra_Dog_Unknown,IM-0075-0003.png,Processed_Dataset\Canine Cardiomegaly\IM-0075-0003.png
+IM-0076-0001.dcm,Ambra,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,Ambra_Dog_Unknown,IM-0076-0001.png,Processed_Dataset\Canine No Findings\IM-0076-0001.png
+IM-0118-0002.dcm,Asia,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0118-0002.png,Processed_Dataset\Canine No Findings\IM-0118-0002.png
+IM-0227-0001.dcm,Birbo,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Birbo_Cat_European Shorthair,IM-0227-0001.png,Processed_Dataset\Feline No Findings\IM-0227-0001.png
+IM-0256-0001-0002.dcm,Bosco,Spinone Italiano,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano,IM-0256-0001-0002.png,Processed_Dataset\Canine Cardiomegaly\IM-0256-0001-0002.png
+IM-0260-0001-0001.dcm,Bosco,Spinone Italiano,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano,IM-0260-0001-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-0260-0001-0001.png
+IM-0279-0001.dcm,BRICIOLA,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,BRICIOLA_Dog_Mixed Breed,IM-0279-0001.png,Processed_Dataset\Canine No Findings\IM-0279-0001.png
+IM-0301-0002.dcm,CAMILLA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,CAMILLA_Dog_Unknown,IM-0301-0002.png,Processed_Dataset\Canine No Findings\IM-0301-0002.png
+IM-0302-0003.dcm,CAMILLA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,CAMILLA_Dog_Unknown,IM-0302-0003.png,Processed_Dataset\Canine No Findings\IM-0302-0003.png
+IM-0395-0001.dcm,Chloe,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Chloe_Cat_European Shorthair,IM-0395-0001.png,Processed_Dataset\Feline No Findings\IM-0395-0001.png
+IM-0426-0001.dcm,Cleo,Jack Russell Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Cleo_Dog_Jack Russell Terrier,IM-0426-0001.png,Processed_Dataset\Canine No Findings\IM-0426-0001.png
+IM-0431-0001.dcm,Cleopatra,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Cleopatra_Cat_European Shorthair,IM-0431-0001.png,Processed_Dataset\Feline No Findings\IM-0431-0001.png
+IM-0468-0001.dcm,Diana,Border Collie,Dog,LL,correct,no_finding,,Canine No Findings,Diana_Dog_Border Collie,IM-0468-0001.png,Processed_Dataset\Canine No Findings\IM-0468-0001.png
+IM-0545-0001-0001.dcm,Erik,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Erik_Cat_European Shorthair,IM-0545-0001-0001.png,Processed_Dataset\Feline No Findings\IM-0545-0001-0001.png
+IM-0556-0001.dcm,Ettore,French Bulldog,Dog,LL,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog,IM-0556-0001.png,Processed_Dataset\Canine No Findings\IM-0556-0001.png
+IM-0718-0001.dcm,Holly,Yorkshire Terrier,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Holly_Dog_Yorkshire Terrier,IM-0718-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-0718-0001.png
+IM-0766-0001.dcm,KALI,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown,IM-0766-0001.png,Processed_Dataset\Canine No Findings\IM-0766-0001.png
+IM-0769-0004.dcm,KALI,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown,IM-0769-0004.png,Processed_Dataset\Canine No Findings\IM-0769-0004.png
+IM-0837-0002.dcm,Lana,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Lana_Cat_Unknown,IM-0837-0002.png,Processed_Dataset\Feline No Findings\IM-0837-0002.png
+IM-0876-0001-0002.dcm,Life,Bull Terrier,Dog,LL,correct,no_finding,,Canine No Findings,Life_Dog_Bull Terrier,IM-0876-0001-0002.png,Processed_Dataset\Canine No Findings\IM-0876-0001-0002.png
+IM-0957-0001.dcm,luna,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,luna_Cat_Unknown,IM-0957-0001.png,Processed_Dataset\Feline No Findings\IM-0957-0001.png
+IM-0959-0003.dcm,luna,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,luna_Cat_Unknown,IM-0959-0003.png,Processed_Dataset\Feline No Findings\IM-0959-0003.png
+IM-0964-0001.dcm,Luna,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Luna_Dog_Irish Setter,IM-0964-0001.png,Processed_Dataset\Canine No Findings\IM-0964-0001.png
+IM-0966-0001.dcm,Luna,Irish Setter,Dog,LL,correct,no_finding,,Canine No Findings,Luna_Dog_Irish Setter,IM-0966-0001.png,Processed_Dataset\Canine No Findings\IM-0966-0001.png
+IM-1045-0002.dcm,MAYA,Unknown,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,MAYA_Dog_Unknown,IM-1045-0002.png,Processed_Dataset\Canine Alveolar Pattern\IM-1045-0002.png
+IM-1049-0002.dcm,MAYA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,MAYA_Dog_Unknown,IM-1049-0002.png,Processed_Dataset\Canine No Findings\IM-1049-0002.png
+IM-1050-0003.dcm,MAYA,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,MAYA_Dog_Unknown,IM-1050-0003.png,Processed_Dataset\Canine No Findings\IM-1050-0003.png
+IM-1134-0001.dcm,Mimo,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Mimo_Cat_European Shorthair,IM-1134-0001.png,Processed_Dataset\Feline Cardiomegaly\IM-1134-0001.png
+IM-1182-0001-0003.dcm,Nero,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Nero_Cat_European Shorthair,IM-1182-0001-0003.png,Processed_Dataset\Feline Alveolar Pattern\IM-1182-0001-0003.png
+IM-1182-0001-0004.dcm,Nero,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Nero_Cat_European Shorthair,IM-1182-0001-0004.png,Processed_Dataset\Feline Alveolar Pattern\IM-1182-0001-0004.png
+IM-1182-0001-0005.dcm,Nero,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Nero_Cat_European Shorthair,IM-1182-0001-0005.png,Processed_Dataset\Feline Alveolar Pattern\IM-1182-0001-0005.png
+IM-1333-0001-0002.dcm,Perla,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Perla_Cat_European Shorthair,IM-1333-0001-0002.png,Processed_Dataset\Feline No Findings\IM-1333-0001-0002.png
+IM-1453-0001-0001.dcm,Rocco,Chihuahua,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Rocco_Dog_Chihuahua,IM-1453-0001-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-1453-0001-0001.png
+IM-1460-0001.dcm,rocky,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,rocky_Dog_Mixed Breed,IM-1460-0001.png,Processed_Dataset\Canine No Findings\IM-1460-0001.png
+IM-1464-0003.dcm,rocky,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,rocky_Dog_Mixed Breed,IM-1464-0003.png,Processed_Dataset\Canine No Findings\IM-1464-0003.png
+IM-1484-0001-0003.dcm,ROSARIO,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,ROSARIO_Cat_European Shorthair,IM-1484-0001-0003.png,Processed_Dataset\Feline Cardiomegaly\IM-1484-0001-0003.png
+IM-1491-0001.dcm,Rucola,Bolognese,Dog,LL,correct,no_finding,,Canine No Findings,Rucola_Dog_Bolognese,IM-1491-0001.png,Processed_Dataset\Canine No Findings\IM-1491-0001.png
+IM-1507-0001.dcm,Saphira,Hovawart,Dog,LL,correct,no_finding,,Canine No Findings,Saphira_Dog_Hovawart,IM-1507-0001.png,Processed_Dataset\Canine No Findings\IM-1507-0001.png
+IM-1508-0002.dcm,Saphira,Hovawart,Dog,LL,correct,no_finding,,Canine No Findings,Saphira_Dog_Hovawart,IM-1508-0002.png,Processed_Dataset\Canine No Findings\IM-1508-0002.png
+IM-1669-0001-0001.dcm,Tobia,Bolognese,Dog,LL,correct,no_finding,,Canine No Findings,Tobia_Dog_Bolognese,IM-1669-0001-0001.png,Processed_Dataset\Canine No Findings\IM-1669-0001-0001.png
+IM-1734-0002.dcm,Tyrion,European Shorthair,Cat,LL,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Tyrion_Cat_European Shorthair,IM-1734-0002.png,Processed_Dataset\Feline Alveolar Pattern\IM-1734-0002.png
+IM-1774-0001.dcm,Willie,Australian Shepherd,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Willie_Dog_Australian Shepherd,IM-1774-0001.png,Processed_Dataset\Canine Alveolar Pattern\IM-1774-0001.png
+IM-1776-0001-0001.dcm,Willie,Australian Shepherd,Dog,LL,correct,no_finding,,Canine No Findings,Willie_Dog_Australian Shepherd,IM-1776-0001-0001.png,Processed_Dataset\Canine No Findings\IM-1776-0001-0001.png
+IM-1785-0002.dcm,Wisky,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Wisky_Cat_Unknown,IM-1785-0002.png,Processed_Dataset\Feline No Findings\IM-1785-0002.png
+IM-1786-0003.dcm,Wisky,Unknown,Cat,LL,correct,no_finding,,Feline No Findings,Wisky_Cat_Unknown,IM-1786-0003.png,Processed_Dataset\Feline No Findings\IM-1786-0003.png
+IM-1829-0001.dcm,ZOE,Unknown,Dog,LL,correct,no_finding,,Canine No Findings,ZOE_Dog_Unknown,IM-1829-0001.png,Processed_Dataset\Canine No Findings\IM-1829-0001.png
+IM-1846-0001.dcm,Zuma,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed,IM-1846-0001.png,Processed_Dataset\Canine No Findings\IM-1846-0001.png
+IM-1850-0004.dcm,Zuma,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed,IM-1850-0004.png,Processed_Dataset\Canine No Findings\IM-1850-0004.png
+IMG-0002-0002.dcm,Amy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Amy_Dog_Mixed Breed,IMG-0002-0002.png,Processed_Dataset\Canine No Findings\IMG-0002-0002.png
+IMG-0003-0001.dcm,Agata,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair,IMG-0003-0001.png,Processed_Dataset\Feline No Findings\IMG-0003-0001.png
+IMG-0022-0002.dcm,Amy,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Amy_Dog_Mixed Breed,IMG-0022-0002.png,Processed_Dataset\Canine No Findings\IMG-0022-0002.png
+IMG-0039-0001.dcm,Arturo,Mixed Breed,Dog,LL,correct,no_finding,,Canine No Findings,Arturo_Dog_Mixed Breed,IMG-0039-0001.png,Processed_Dataset\Canine No Findings\IMG-0039-0001.png
+IMG-0064-0001.dcm,Bella,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Bella_Cat_European Shorthair,IMG-0064-0001.png,Processed_Dataset\Feline No Findings\IMG-0064-0001.png
+IMG-0163-0001.dcm,Chanel,Barbet,Dog,LL,correct,no_finding,,Canine No Findings,Chanel_Dog_Barbet,IMG-0163-0001.png,Processed_Dataset\Canine No Findings\IMG-0163-0001.png
+IMG-0165-0003.dcm,Chanel,Barbet,Dog,LL,correct,no_finding,,Canine No Findings,Chanel_Dog_Barbet,IMG-0165-0003.png,Processed_Dataset\Canine No Findings\IMG-0165-0003.png
+IM-0012-0002.dcm,Achille,Labrador Retriever,Dog,VD,correct,alveolar_pattern|mass,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever,IM-0012-0002.png,Processed_Dataset\Canine Alveolar Pattern\IM-0012-0002.png
+IM-0016-0002.dcm,Agata,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair,IM-0016-0002.png,Processed_Dataset\Feline No Findings\IM-0016-0002.png
+IM-0018-0002.dcm,Agata,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Agata_Cat_European Shorthair,IM-0018-0002.png,Processed_Dataset\Feline No Findings\IM-0018-0002.png
+IM-0030-0003.dcm,Aku,Belgian Shepherd Malinois,Dog,VD,correct,alveolar_pattern|pleural_effusion,,Canine Alveolar Pattern,Aku_Dog_Belgian Shepherd Malinois,IM-0030-0003.png,Processed_Dataset\Canine Alveolar Pattern\IM-0030-0003.png
+IM-0038-0001-0003.dcm,Alaska,Mixed Breed,Dog,VD,correct,pneumothorax|alveolar_pattern,,Canine Alveolar Pattern,Alaska_Dog_Mixed Breed,IM-0038-0001-0003.png,Processed_Dataset\Canine Alveolar Pattern\IM-0038-0001-0003.png
+IM-0063-0002.dcm,Alma,Labrador Retriever,Dog,VD,correct,no_finding|pleural_mineralization,,Canine No Findings,Alma_Dog_Labrador Retriever,IM-0063-0002.png,Processed_Dataset\Canine No Findings\IM-0063-0002.png
+IM-0066-0003.dcm,Alvise,Vizsla,Dog,VD,correct,pleural_effusion|alveolar_pattern,,Canine Alveolar Pattern,Alvise_Dog_Vizsla,IM-0066-0003.png,Processed_Dataset\Canine Alveolar Pattern\IM-0066-0003.png
+IM-0069-0001.dcm,Alyssa,Tibetan Spaniel,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Alyssa_Dog_Tibetan Spaniel,IM-0069-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-0069-0001.png
+IM-0077-0003.dcm,Ambra,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,Ambra_Dog_Unknown,IM-0077-0003.png,Processed_Dataset\Canine No Findings\IM-0077-0003.png
+IM-0117-0001.dcm,Asia,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Asia_Dog_Mixed Breed,IM-0117-0001.png,Processed_Dataset\Canine No Findings\IM-0117-0001.png
+IM-0257-0002.dcm,Bosco,Spinone Italiano,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano,IM-0257-0002.png,Processed_Dataset\Canine Cardiomegaly\IM-0257-0002.png
+IM-0258-0003.dcm,Bosco,Spinone Italiano,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Bosco_Dog_Spinone Italiano,IM-0258-0003.png,Processed_Dataset\Canine Cardiomegaly\IM-0258-0003.png
+IM-0280-0002.dcm,BRICIOLA,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,BRICIOLA_Dog_Mixed Breed,IM-0280-0002.png,Processed_Dataset\Canine No Findings\IM-0280-0002.png
+IM-0300-0001-0002.dcm,CAMILLA,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,CAMILLA_Dog_Unknown,IM-0300-0001-0002.png,Processed_Dataset\Canine No Findings\IM-0300-0001-0002.png
+IM-0396-0002.dcm,Chloe,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Chloe_Cat_European Shorthair,IM-0396-0002.png,Processed_Dataset\Feline No Findings\IM-0396-0002.png
+IM-0427-0002.dcm,Cleo,Jack Russell Terrier,Dog,VD,correct,no_finding,,Canine No Findings,Cleo_Dog_Jack Russell Terrier,IM-0427-0002.png,Processed_Dataset\Canine No Findings\IM-0427-0002.png
+IM-0432-0002.dcm,Cleopatra,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Cleopatra_Cat_European Shorthair,IM-0432-0002.png,Processed_Dataset\Feline No Findings\IM-0432-0002.png
+IM-0469-0002.dcm,Diana,Border Collie,Dog,VD,correct,no_finding,,Canine No Findings,Diana_Dog_Border Collie,IM-0469-0002.png,Processed_Dataset\Canine No Findings\IM-0469-0002.png
+IM-0557-0002.dcm,Ettore,French Bulldog,Dog,VD,correct,no_finding,,Canine No Findings,Ettore_Dog_French Bulldog,IM-0557-0002.png,Processed_Dataset\Canine No Findings\IM-0557-0002.png
+IM-0719-0002.dcm,Holly,Yorkshire Terrier,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Holly_Dog_Yorkshire Terrier,IM-0719-0002.png,Processed_Dataset\Canine Cardiomegaly\IM-0719-0002.png
+IM-0720-0003.dcm,Holly,Yorkshire Terrier,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Holly_Dog_Yorkshire Terrier,IM-0720-0003.png,Processed_Dataset\Canine Cardiomegaly\IM-0720-0003.png
+IM-0767-0002.dcm,KALI,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown,IM-0767-0002.png,Processed_Dataset\Canine No Findings\IM-0767-0002.png
+IM-0768-0003.dcm,KALI,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,KALI_Dog_Unknown,IM-0768-0003.png,Processed_Dataset\Canine No Findings\IM-0768-0003.png
+IM-0836-0001.dcm,Lana,Unknown,Cat,VD,correct,no_finding,,Feline No Findings,Lana_Cat_Unknown,IM-0836-0001.png,Processed_Dataset\Feline No Findings\IM-0836-0001.png
+IM-0894-0002.dcm,Lilli,Australian Shepherd,Dog,VD,correct,alveolar_pattern,,Canine Alveolar Pattern,Lilli_Dog_Australian Shepherd,IM-0894-0002.png,Processed_Dataset\Canine Alveolar Pattern\IM-0894-0002.png
+IM-0958-0002.dcm,luna,Unknown,Cat,VD,correct,no_finding,,Feline No Findings,luna_Cat_Unknown,IM-0958-0002.png,Processed_Dataset\Feline No Findings\IM-0958-0002.png
+IM-0965-0002.dcm,Luna,Irish Setter,Dog,VD,correct,no_finding,,Canine No Findings,Luna_Dog_Irish Setter,IM-0965-0002.png,Processed_Dataset\Canine No Findings\IM-0965-0002.png
+IM-1048-0001.dcm,MAYA,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,MAYA_Dog_Unknown,IM-1048-0001.png,Processed_Dataset\Canine No Findings\IM-1048-0001.png
+IM-1135-0002.dcm,Mimo,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,Mimo_Cat_European Shorthair,IM-1135-0002.png,Processed_Dataset\Feline Cardiomegaly\IM-1135-0002.png
+IM-1182-0001-0002.dcm,Nerino,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Nerino_Cat_European Shorthair,IM-1182-0001-0002.png,Processed_Dataset\Feline No Findings\IM-1182-0001-0002.png
+IM-1334-0002.dcm,Perla,European Shorthair,Cat,VD,correct,no_finding,,Feline No Findings,Perla_Cat_European Shorthair,IM-1334-0002.png,Processed_Dataset\Feline No Findings\IM-1334-0002.png
+IM-1461-0002.dcm,rocky,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,rocky_Dog_Mixed Breed,IM-1461-0002.png,Processed_Dataset\Canine No Findings\IM-1461-0002.png
+IM-1485-0002.dcm,ROSARIO,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,ROSARIO_Cat_European Shorthair,IM-1485-0002.png,Processed_Dataset\Feline Cardiomegaly\IM-1485-0002.png
+IM-1669-0001-0002.dcm,Tobia,Bolognese,Dog,VD,correct,no_finding,,Canine No Findings,Tobia_Dog_Bolognese,IM-1669-0001-0002.png,Processed_Dataset\Canine No Findings\IM-1669-0001-0002.png
+IM-1733-0001.dcm,Tyrion,European Shorthair,Cat,VD,correct,pleural_effusion|alveolar_pattern,,Feline Alveolar Pattern,Tyrion_Cat_European Shorthair,IM-1733-0001.png,Processed_Dataset\Feline Alveolar Pattern\IM-1733-0001.png
+IM-1775-0002.dcm,Willie,Australian Shepherd,Dog,VD,correct,alveolar_pattern,,Canine Alveolar Pattern,Willie_Dog_Australian Shepherd,IM-1775-0002.png,Processed_Dataset\Canine Alveolar Pattern\IM-1775-0002.png
+IM-1813-0001.dcm,zeus,Unknown,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,zeus_Dog_Unknown,IM-1813-0001.png,Processed_Dataset\Canine Cardiomegaly\IM-1813-0001.png
+IM-1816-0003.dcm,zeus,Unknown,Dog,VD,correct,cardiomegaly|interstitial_pattern,,Canine Cardiomegaly,zeus_Dog_Unknown,IM-1816-0003.png,Processed_Dataset\Canine Cardiomegaly\IM-1816-0003.png
+IM-1830-0002.dcm,ZOE,Unknown,Dog,VD,correct,no_finding,,Canine No Findings,ZOE_Dog_Unknown,IM-1830-0002.png,Processed_Dataset\Canine No Findings\IM-1830-0002.png
+IM-1845-0003.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed,IM-1845-0003.png,Processed_Dataset\Canine No Findings\IM-1845-0003.png
+IM-1847-0000.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed,IM-1847-0000.png,Processed_Dataset\Canine No Findings\IM-1847-0000.png
+IM-1848-0003.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed,IM-1848-0003.png,Processed_Dataset\Canine No Findings\IM-1848-0003.png
+IM-1849-0005.dcm,Zuma,Mixed Breed,Dog,VD,correct,no_finding,,Canine No Findings,Zuma_Dog_Mixed Breed,IM-1849-0005.png,Processed_Dataset\Canine No Findings\IM-1849-0005.png
+IMT-0081-0001.dcm,Topolino,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Topolino_Cat_European Shorthair,IMT-0081-0001.png,Processed_Dataset\Feline No Findings\IMT-0081-0001.png
+IMT-0082-0002.dcm,Topolino,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Topolino_Cat_European Shorthair,IMT-0082-0002.png,Processed_Dataset\Feline No Findings\IMT-0082-0002.png
+IMT-0083-0002.dcm,Topolino,European Shorthair,Cat,DV,correct,alveolar_pattern,,Feline Alveolar Pattern,Topolino_Cat_European Shorthair,IMT-0083-0002.png,Processed_Dataset\Feline Alveolar Pattern\IMT-0083-0002.png
+IMT-0084-0001.dcm,Topolino,European Shorthair,Cat,VD,correct,alveolar_pattern,,Feline Alveolar Pattern,Topolino_Cat_European Shorthair,IMT-0084-0001.png,Processed_Dataset\Feline Alveolar Pattern\IMT-0084-0001.png
+IMT-0085-0001.dcm,Topolino,European Shorthair,Cat,LL,correct,alveolar_pattern|interstitial_pattern,,Feline Alveolar Pattern,Topolino_Cat_European Shorthair,IMT-0085-0001.png,Processed_Dataset\Feline Alveolar Pattern\IMT-0085-0001.png
+IMT-0292-0001.dcm,Priscilla,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair,IMT-0292-0001.png,Processed_Dataset\Feline Cardiomegaly\IMT-0292-0001.png
+IMT-0293-0002.dcm,Priscilla,European Shorthair,Cat,DV,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair,IMT-0293-0002.png,Processed_Dataset\Feline Cardiomegaly\IMT-0293-0002.png
+IMT-0294-0004.dcm,Priscilla,European Shorthair,Cat,VD,correct,cardiomegaly,,Feline Cardiomegaly,Priscilla_Cat_European Shorthair,IMT-0294-0004.png,Processed_Dataset\Feline Cardiomegaly\IMT-0294-0004.png
+IMT-0334-0001.dcm,Perla,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Perla_Cat_European Shorthair,IMT-0334-0001.png,Processed_Dataset\Feline No Findings\IMT-0334-0001.png
+IMT-0368-0001.dcm,olivia,French Bulldog,Dog,DV,correct,no_finding,,Canine No Findings,olivia_Dog_French Bulldog,IMT-0368-0001.png,Processed_Dataset\Canine No Findings\IMT-0368-0001.png
+IMT-0471-0001.dcm,Loki,Lagorai Mountain Dog,Dog,LL,correct,no_finding,,Canine No Findings,Loki_Dog_Lagorai Mountain Dog,IMT-0471-0001.png,Processed_Dataset\Canine No Findings\IMT-0471-0001.png
+IMT-0472-0000.dcm,Loki,Lagorai Mountain Dog,Dog,DV,correct,no_finding,,Canine No Findings,Loki_Dog_Lagorai Mountain Dog,IMT-0472-0000.png,Processed_Dataset\Canine No Findings\IMT-0472-0000.png
+IMT-0502-0002.dcm,Lara,Cavalier King Charles Spaniel,Dog,LL,correct,no_finding,,Canine No Findings,Lara_Dog_Cavalier King Charles Spaniel,IMT-0502-0002.png,Processed_Dataset\Canine No Findings\IMT-0502-0002.png
+IMT-0695-0001.dcm,Cotone,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Cotone_Cat_European Shorthair,IMT-0695-0001.png,Processed_Dataset\Feline No Findings\IMT-0695-0001.png
+IMT-0697-0003.dcm,Cotone,European Shorthair,Cat,DV,correct,no_finding,,Feline No Findings,Cotone_Cat_European Shorthair,IMT-0697-0003.png,Processed_Dataset\Feline No Findings\IMT-0697-0003.png
+IMT-0709-0001.dcm,Claretta,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Claretta_Cat_European Shorthair,IMT-0709-0001.png,Processed_Dataset\Feline Cardiomegaly\IMT-0709-0001.png
+IMT-0711-0001.dcm,Claretta,European Shorthair,Cat,LL,correct,cardiomegaly,,Feline Cardiomegaly,Claretta_Cat_European Shorthair,IMT-0711-0001.png,Processed_Dataset\Feline Cardiomegaly\IMT-0711-0001.png
+IMT-0896-0001.dcm,Achille,Labrador Retriever,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever,IMT-0896-0001.png,Processed_Dataset\Canine Alveolar Pattern\IMT-0896-0001.png
+IMT-0899-0005.dcm,Achille,Labrador Retriever,Dog,LL,correct,alveolar_pattern,,Canine Alveolar Pattern,Achille_Dog_Labrador Retriever,IMT-0899-0005.png,Processed_Dataset\Canine Alveolar Pattern\IMT-0899-0005.png
+IMV-IM-0084-0001.dcm,Sophie,Scottish Straight,Cat,LL,correct,no_finding,,Feline No Findings,Sophie_Cat_Scottish Straight,IMV-IM-0084-0001.png,Processed_Dataset\Feline No Findings\IMV-IM-0084-0001.png
+IMV-IM-0419-0002.dcm,Elettra,Tabby Cat,Cat,LL,correct,cardiomegaly|interstitial_pattern,,Feline Cardiomegaly,Elettra_Cat_Tabby Cat,IMV-IM-0419-0002.png,Processed_Dataset\Feline Cardiomegaly\IMV-IM-0419-0002.png
+IMV-IM-0421-0004.dcm,Elettra,Tabby Cat,Cat,LL,correct,cardiomegaly|interstitial_pattern,,Feline Cardiomegaly,Elettra_Cat_Tabby Cat,IMV-IM-0421-0004.png,Processed_Dataset\Feline Cardiomegaly\IMV-IM-0421-0004.png
+IMA-0113-0001.dcm,Gilly,Shih Tzu,Dog,LL,correct,cardiomegaly,,Canine Cardiomegaly,Gilly_Dog_Shih Tzu,IMA-0113-0001.png,Processed_Dataset\Canine Cardiomegaly\IMA-0113-0001.png
+IMA-0114-0002.dcm,Gilly,Shih Tzu,Dog,VD,correct,cardiomegaly,,Canine Cardiomegaly,Gilly_Dog_Shih Tzu,IMA-0114-0002.png,Processed_Dataset\Canine Cardiomegaly\IMA-0114-0002.png
+IMA-0150-0001.dcm,Briciola,European Shorthair,Cat,LL,correct,no_finding,,Feline No Findings,Briciola_Cat_European Shorthair,IMA-0150-0001.png,Processed_Dataset\Feline No Findings\IMA-0150-0001.png
