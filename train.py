@@ -19,7 +19,11 @@ NUM_CLASSES = 6
 IMAGE_SIZE = 224
 
 BATCH_SIZE = 32
-NUM_EPOCHS = 20
+
+# Temporary pipeline test
+# Change back to 20 after the 1-epoch test succeeds
+NUM_EPOCHS = 1
+
 LEARNING_RATE = 0.0001
 
 # Model 1 training manifest
@@ -28,7 +32,7 @@ TRAIN_CSV = "splits/model1_train_base_manifest.csv"
 # Validation manifest
 VAL_CSV = "splits/val_manifest.csv"
 
-# Folders for outputs
+# Output folders
 MODEL_DIR = "models"
 RESULTS_DIR = "results"
 
@@ -38,16 +42,16 @@ RESULTS_DIR = "results"
 # ============================================================
 
 CLASS_NAMES = [
-    "Canine Alveolar Pattern",
-    "Canine Cardiomegaly",
     "Canine No Findings",
-    "Feline Alveolar Pattern",
+    "Canine Cardiomegaly",
+    "Canine Alveolar Pattern",
+    "Feline No Findings",
     "Feline Cardiomegaly",
-    "Feline No Findings"
+    "Feline Alveolar Pattern"
 ]
 
 
-# Convert class names into numerical labels
+# Convert class names to numerical labels
 CLASS_TO_INDEX = {
     class_name: index
     for index, class_name in enumerate(CLASS_NAMES)
@@ -65,14 +69,14 @@ class ThoracicRadiographDataset(Dataset):
         # Read CSV manifest
         self.data = pd.read_csv(csv_file)
 
-        # Store image transformation
+        # Store transformation
         self.transform = transform
 
-        # Your actual CSV column names
+        # CSV column names
         self.path_column = "filepath"
         self.label_column = "Class"
 
-        # Check that required columns exist
+        # Check required columns
         if self.path_column not in self.data.columns:
             raise ValueError(
                 f"Missing required column: {self.path_column}"
@@ -98,10 +102,15 @@ class ThoracicRadiographDataset(Dataset):
         row = self.data.iloc[index]
 
         # Get image path
-        image_path = str(row[self.path_column])
+        # Convert Windows "\" to Linux "/"
+        image_path = str(
+            row[self.path_column]
+        ).replace("\\", "/")
 
         # Get class name
-        class_name = str(row[self.label_column])
+        class_name = str(
+            row[self.label_column]
+        )
 
         # Check that class exists
         if class_name not in CLASS_TO_INDEX:
@@ -154,7 +163,7 @@ train_transform = transforms.Compose([
 ])
 
 
-# Validation uses the same basic preprocessing.
+# Validation uses the same basic preprocessing
 val_transform = transforms.Compose([
 
     transforms.Resize(
@@ -171,7 +180,7 @@ val_transform = transforms.Compose([
 
 
 # ============================================================
-# LOAD TRAINING DATASET
+# LOAD DATASETS
 # ============================================================
 
 print("\n" + "=" * 60)
@@ -182,11 +191,6 @@ train_dataset = ThoracicRadiographDataset(
     TRAIN_CSV,
     transform=train_transform
 )
-
-
-# ============================================================
-# LOAD VALIDATION DATASET
-# ============================================================
 
 val_dataset = ThoracicRadiographDataset(
     VAL_CSV,
@@ -340,7 +344,7 @@ for epoch in range(NUM_EPOCHS):
 
     for images, labels in train_loader:
 
-        # Move images and labels to CPU/GPU
+        # Move images and labels to device
         images = images.to(device)
 
         labels = labels.to(device)
@@ -520,7 +524,6 @@ for epoch in range(NUM_EPOCHS):
 
         best_val_loss = val_loss
 
-
         model_path = os.path.join(
 
             MODEL_DIR,
@@ -529,7 +532,6 @@ for epoch in range(NUM_EPOCHS):
 
         )
 
-
         torch.save(
 
             model.state_dict(),
@@ -537,7 +539,6 @@ for epoch in range(NUM_EPOCHS):
             model_path
 
         )
-
 
         print(
             f"Best model saved to: {model_path}"
@@ -552,7 +553,6 @@ history_df = pd.DataFrame(
     history
 )
 
-
 history_path = os.path.join(
 
     RESULTS_DIR,
@@ -560,7 +560,6 @@ history_path = os.path.join(
     "model1_training_history.csv"
 
 )
-
 
 history_df.to_csv(
 
