@@ -22,7 +22,7 @@ BATCH_SIZE = 32
 
 # Temporary pipeline test
 # Change back to 20 after the 1-epoch test succeeds
-NUM_EPOCHS = 1
+NUM_EPOCHS = 20
 
 LEARNING_RATE = 0.0001
 
