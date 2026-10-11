@@ -4,3 +4,7 @@ __pycache__/
 .vscode/
 venv/
 Augmented_Dataset/
+Add-Content .gitignore "`ncheckpoints/"
+checkpoints/
+
+checkpoints/
