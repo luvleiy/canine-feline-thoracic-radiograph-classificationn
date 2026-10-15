@@ -8,7 +8,7 @@ class ResUpsampleBlock(nn.Module):
     sharp anatomical edges and prevent checkerboard artifacts.
     """
     def __init__(self, in_channels, out_channels):
-        super(ResUpsampleBlock, self).__init__()
+        super().__init__()
         self.conv = nn.Sequential(
             nn.Upsample(scale_factor=2, mode='nearest'),
             nn.Conv2d(in_channels, out_channels, kernel_size=3, stride=1, padding=1, bias=False),
@@ -29,7 +29,7 @@ class ResUpsampleBlock(nn.Module):
 
 class Generator(nn.Module):
     def __init__(self, num_classes=6, latent_dim=100, embed_dim=64, feature_maps=64):
-        super(Generator, self).__init__()
+        super().__init__()
         self.latent_dim = latent_dim
         self.label_embedding = nn.Embedding(num_classes, embed_dim)
         
@@ -68,13 +68,8 @@ class Generator(nn.Module):
 
 
 class PatchDiscriminator(nn.Module):
-    """
-    PatchGAN Discriminator with Spectral Normalization:
-    Discriminates local 70x70 patches for anatomical texture fidelity
-    rather than a single collapsed global scalar.
-    """
     def __init__(self, num_classes=6, feature_maps=64):
-        super(PatchDiscriminator, self).__init__()
+        super().__init__()
         self.label_embedding = nn.Embedding(num_classes, 224 * 224)
         
         self.net = nn.Sequential(
@@ -97,7 +92,7 @@ class PatchDiscriminator(nn.Module):
             nn.BatchNorm2d(feature_maps * 8),
             nn.LeakyReLU(0.2, inplace=True),
             
-            # Patch output: evaluates 14x14 grid of patches
+            # Patch output: evaluates 14x14 grid of local patches
             spectral_norm(nn.Conv2d(feature_maps * 8, 1, kernel_size=3, stride=1, padding=1))
         )
 
@@ -108,5 +103,5 @@ class PatchDiscriminator(nn.Module):
         return self.net(x)
 
 
-# Backwards compatibility alias for loader scripts
+# Alias
 Discriminator = PatchDiscriminator
