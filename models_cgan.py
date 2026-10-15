@@ -1,15 +1,33 @@
 import torch
 import torch.nn as nn
+from torch.nn.utils import spectral_norm
+
+class UpsampleBlock(nn.Module):
+    """
+    Nearest-neighbor upsample followed by Conv2d completely eliminates
+    transposed convolution checkerboard artifacts.
+    """
+    def __init__(self, in_channels, out_channels):
+        super(UpsampleBlock, self).__init__()
+        self.block = nn.Sequential(
+            nn.Upsample(scale_factor=2, mode='nearest'),
+            nn.Conv2d(in_channels, out_channels, kernel_size=3, stride=1, padding=1, bias=False),
+            nn.BatchNorm2d(out_channels),
+            nn.ReLU(True)
+        )
+
+    def forward(self, x):
+        return self.block(x)
+
 
 class Generator(nn.Module):
     def __init__(self, num_classes=6, latent_dim=100, embed_dim=50, feature_maps=64):
         super(Generator, self).__init__()
         self.label_embedding = nn.Embedding(num_classes, embed_dim)
         
-        # Total input dimension: latent vector z + class embedding
         in_dim = latent_dim + embed_dim
         
-        # Initial projection to feature map of size 7x7
+        # Initial projection: latent vector -> 7x7 spatial map
         self.fc = nn.Sequential(
             nn.Linear(in_dim, feature_maps * 8 * 7 * 7),
             nn.BatchNorm1d(feature_maps * 8 * 7 * 7),
@@ -17,30 +35,16 @@ class Generator(nn.Module):
         )
         
         # Upsampling stages: 7x7 -> 14x14 -> 28x28 -> 56x56 -> 112x112 -> 224x224
-        self.net = nn.Sequential(
-            # 7x7 -> 14x14
-            nn.ConvTranspose2d(feature_maps * 8, feature_maps * 4, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps * 4),
-            nn.ReLU(True),
-            
-            # 14x14 -> 28x28
-            nn.ConvTranspose2d(feature_maps * 4, feature_maps * 2, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps * 2),
-            nn.ReLU(True),
-            
-            # 28x28 -> 56x56
-            nn.ConvTranspose2d(feature_maps * 2, feature_maps, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps),
-            nn.ReLU(True),
-            
-            # 56x56 -> 112x112
-            nn.ConvTranspose2d(feature_maps, feature_maps // 2, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps // 2),
-            nn.ReLU(True),
-            
-            # 112x112 -> 224x224
-            nn.ConvTranspose2d(feature_maps // 2, 3, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.Tanh()  # Output range [-1, 1]
+        self.stage1 = UpsampleBlock(feature_maps * 8, feature_maps * 4)  # 7 -> 14
+        self.stage2 = UpsampleBlock(feature_maps * 4, feature_maps * 2)  # 14 -> 28
+        self.stage3 = UpsampleBlock(feature_maps * 2, feature_maps)      # 28 -> 56
+        self.stage4 = UpsampleBlock(feature_maps, feature_maps // 2)     # 56 -> 112
+        
+        # Final block to output resolution 224x224 (3 channels, normalized [-1, 1])
+        self.final = nn.Sequential(
+            nn.Upsample(scale_factor=2, mode='nearest'),                 # 112 -> 224
+            nn.Conv2d(feature_maps // 2, 3, kernel_size=3, stride=1, padding=1, bias=False),
+            nn.Tanh()
         )
 
     def forward(self, noise, labels):
@@ -48,7 +52,11 @@ class Generator(nn.Module):
         x = torch.cat([noise, c], dim=1)
         x = self.fc(x)
         x = x.view(x.size(0), -1, 7, 7)
-        return self.net(x)
+        x = self.stage1(x)
+        x = self.stage2(x)
+        x = self.stage3(x)
+        x = self.stage4(x)
+        return self.final(x)
 
 
 class Discriminator(nn.Module):
@@ -58,38 +66,35 @@ class Discriminator(nn.Module):
         self.label_embedding = nn.Embedding(num_classes, 224 * 224)
         
         # Input channels: 3 (image) + 1 (label map) = 4 channels
+        # Spectral normalization controls the Lipschitz constant and stabilizes training
         self.net = nn.Sequential(
             # 224x224 -> 112x112
-            nn.Conv2d(4, feature_maps, kernel_size=4, stride=2, padding=1),
+            spectral_norm(nn.Conv2d(4, feature_maps, kernel_size=4, stride=2, padding=1)),
             nn.LeakyReLU(0.2, inplace=True),
             
             # 112x112 -> 56x56
-            nn.Conv2d(feature_maps, feature_maps * 2, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps * 2),
+            spectral_norm(nn.Conv2d(feature_maps, feature_maps * 2, kernel_size=4, stride=2, padding=1)),
             nn.LeakyReLU(0.2, inplace=True),
             
             # 56x56 -> 28x28
-            nn.Conv2d(feature_maps * 2, feature_maps * 4, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps * 4),
+            spectral_norm(nn.Conv2d(feature_maps * 2, feature_maps * 4, kernel_size=4, stride=2, padding=1)),
             nn.LeakyReLU(0.2, inplace=True),
             
             # 28x28 -> 14x14
-            nn.Conv2d(feature_maps * 4, feature_maps * 8, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps * 8),
+            spectral_norm(nn.Conv2d(feature_maps * 4, feature_maps * 8, kernel_size=4, stride=2, padding=1)),
             nn.LeakyReLU(0.2, inplace=True),
             
             # 14x14 -> 7x7
-            nn.Conv2d(feature_maps * 8, feature_maps * 16, kernel_size=4, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(feature_maps * 16),
+            spectral_norm(nn.Conv2d(feature_maps * 8, feature_maps * 8, kernel_size=4, stride=2, padding=1)),
             nn.LeakyReLU(0.2, inplace=True),
             
-            # 7x7 -> 1x1 scalar probability
-            nn.Conv2d(feature_maps * 16, 1, kernel_size=7, stride=1, padding=0),
-            nn.Sigmoid()
+            # 7x7 -> 1x1 scalar
+            spectral_norm(nn.Conv2d(feature_maps * 8, 1, kernel_size=7, stride=1, padding=0)),
+            nn.Flatten()
         )
 
     def forward(self, img, labels):
         b, _, h, w = img.shape
         c = self.label_embedding(labels).view(b, 1, h, w)
         x = torch.cat([img, c], dim=1)
-        return self.net(x).view(b, -1)
+        return self.net(x)
